@@ -1,0 +1,412 @@
+{
+    "cgdbId": 23,
+    "code": "TAK",
+    "name": "The Archmaester's Key",
+    "releaseDate": "2017-11-24",
+    "cards": [
+        {
+            "code": "08001",
+            "type": "attachment",
+            "name": "Archmaester's Key",
+            "octgnId": "e0331240-cda0-4a7a-ad08-5748b398f964",
+            "quantity": 3,
+            "unique": false,
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "Item",
+                "Citadel"
+            ],
+            "text": "<i>Maester</i> character only.\n<b>Action:</b> Kneel attached character to choose an event in an opponent's discard pile. Once this phase, you may play that event as if it were in your hand. If you do, place it on the bottom of its owner's deck instead of placing it in that player's discard pile.",
+            "deckLimit": 3,
+            "illustrator": "Ivan Dixon"
+        },
+        {
+            "code": "08002",
+            "type": "character",
+            "name": "Dreadfort Maester",
+            "octgnId": "4011260d-30a9-4768-8a92-ac00097b4b35",
+            "quantity": 3,
+            "unique": false,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "House Bolton",
+                "Maester"
+            ],
+            "text": "<b>Reaction:</b> After you initiate a [military] or [intrigue] challenge, sacrifice Dreadfort Maester to raise the claim value on your revealed plot card by 1 until the end of the challenge.",
+            "deckLimit": 3,
+            "illustrator": "Adam Lane"
+        },
+        {
+            "code": "08003",
+            "type": "event",
+            "name": "At Night They Howl",
+            "octgnId": "06e77ac4-e0b8-4bc3-87c0-52ec5f3ba3da",
+            "quantity": 3,
+            "faction": "stark",
+            "loyal": true,
+            "cost": 3,
+            "traits": [],
+            "text": "<b>Challenges Action:</b> Choose and stand any number of <i>Direwolf</i> characters and characters with a <i>Direwolf</i> attachment.",
+            "flavor": "He remembered how the direwolves had come at him out of the shadows, and suddenly he could see them again, snarling and snapping, teeth bared in his face.",
+            "deckLimit": 3,
+            "illustrator": "Sandara Tang"
+        },
+        {
+            "code": "08004",
+            "type": "character",
+            "name": "Septa Nysterica",
+            "octgnId": "2388d683-ed70-4887-8917-d2df0b1fd3fe",
+            "quantity": 3,
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "The Seven"
+            ],
+            "text": "<b>Action:</b> Kneel Septa Nysterica to choose an attacking character with STR 4 or lower. Stand that character and remove it from the challenge.",
+            "flavor": "Septa Nysterica had a homely pox-scarred face but seemed jolly.",
+            "deckLimit": 3,
+            "illustrator": "Jan-Wah Li"
+        },
+        {
+            "code": "08005",
+            "type": "attachment",
+            "name": "Oathkeeper",
+            "octgnId": "e09ed895-aaf4-498b-a1e3-c7dc08c53995",
+            "quantity": 3,
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Valyrian Steel",
+                "Weapon"
+            ],
+            "text": "Attached character gets +2 STR.\n<b>Reaction:</b> After you win a challenge by 5 or more STR in which attached character is participating, sacrifice Oathkeeper to search your deck for a non-[tyrell] character, reveal it, and add it to your hand. Shuffle your deck.",
+            "deckLimit": 3,
+            "illustrator": "Alex Boca"
+        },
+        {
+            "code": "08006",
+            "type": "character",
+            "name": "Young Builder",
+            "octgnId": "b9f6a1a3-7f57-4359-9ee3-7e358e2cc35d",
+            "quantity": 3,
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Builder"
+            ],
+            "text": "Bestow (3). No attachments except <i>Weapon</i>.\n<b>Reaction:</b> After a [thenightswatch] location or attachment enters play under your control, discard 1 gold from Young Builder to draw 1 card.",
+            "deckLimit": 3,
+            "illustrator": "David Demaret"
+        },
+        {
+            "code": "08007",
+            "type": "event",
+            "name": "\"The Rat Cook\"",
+            "octgnId": "6d3a934e-79d8-4729-97d1-b4ebd071f98c",
+            "quantity": 3,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Song"
+            ],
+            "text": "<b>Marshaling Action:</b> Choose a character with printed cost X or lower. X is the number of Steward characters you control. Until the end of the round, take control of that character, and treat its printed text box as if it were blank (except for Traits).",
+            "deckLimit": 3,
+            "illustrator": "A.M. Sartor"
+        },
+        {
+            "code": "08008",
+            "type": "character",
+            "name": "Queen's Men",
+            "octgnId": "1129659f-3624-4557-8b04-0bd8fffe619e",
+            "quantity": 3,
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Ally",
+                "R'hllor"
+            ],
+            "text": "<b>Reaction:</b> After you marshal Queen's Men, choose an opponent and look at his or her hand. Then, you may kneel a non-[baratheon] character to choose and discard 1 non-character card from that hand.",
+            "flavor": "\"One realm, one god, one king!\"",
+            "deckLimit": 3,
+            "illustrator": "Melissa Findley"
+        },
+        {
+            "code": "08009",
+            "type": "attachment",
+            "name": "Traitor to the Crown",
+            "octgnId": "8399961c-0635-4767-a2b8-242b4f371f13",
+            "quantity": 3,
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 1,
+            "traits": [
+                "Condition"
+            ],
+            "text": "Opponent's character only.\nAttached character does not contribute its STR to [power] challenges or to its controller's total for dominance.",
+            "flavor": "\"Leave the traitor to the darkness.\" <cite>Ser Axell Florent</cite>",
+            "deckLimit": 3,
+            "illustrator": "Federico Musetti"
+        },
+        {
+            "code": "08010",
+            "type": "character",
+            "name": "Maester at the Rock",
+            "octgnId": "01f7ae5a-8555-41ce-85d0-617dcdff88fc",
+            "quantity": 3,
+            "unique": false,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Maester"
+            ],
+            "text": "<b>Reaction:</b> After you play a [lannister] event, kneel Maester at the Rock to move that event from your discard pile to the top of your deck.",
+            "deckLimit": 3,
+            "illustrator": "Colin Boyer"
+        },
+        {
+            "code": "08011",
+            "type": "location",
+            "name": "Ashemark",
+            "octgnId": "4a16d0b1-e820-4532-ae92-18f0e7ee55a5",
+            "quantity": 3,
+            "unique": true,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 3,
+            "traits": [
+                "The Westerlands"
+            ],
+            "text": "Bestow (3).\n<b>Reaction:</b> After a phase begins, kneel and sacrifice Ashemark to return each character with printed cost X or lower to its owner's hand. X is the number of gold on Ashemark.",
+            "deckLimit": 3,
+            "illustrator": "Alfred Khamidullin"
+        },
+        {
+            "code": "08012",
+            "type": "character",
+            "name": "Acolyte of the Waves",
+            "octgnId": "0f6e2656-603d-4686-9d1f-b7fabf9cb170",
+            "quantity": 3,
+            "unique": false,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Drowned God"
+            ],
+            "text": "<b>Interrupt:</b> When Acolyte of the Waves is killed, gain 1 power for your faction.",
+            "flavor": "\"The god took me deep beneath the waves and drowned the worthless thing I was.\" <cite>Aeron Damphair</cite>",
+            "deckLimit": 3,
+            "illustrator": "Andreia Ugrai"
+        },
+        {
+            "code": "08013",
+            "type": "location",
+            "name": "Nagga's Ribs",
+            "octgnId": "634e2af9-5f9f-430c-9bb0-9048e48170df",
+            "quantity": 3,
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Iron Islands"
+            ],
+            "text": "For each character in your dead pile, Nagga's Ribs contributes 2 STR to your total for dominance.\n<b>Reaction:</b> After a character is placed in your discard pile, move it to your dead pile.",
+            "deckLimit": 3,
+            "illustrator": "Frej Agelii"
+        },
+        {
+            "code": "08014",
+            "type": "character",
+            "name": "Daario Naharis",
+            "octgnId": "911831c8-fd11-4b16-9e8e-ca6612d4fbb0",
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 6,
+            "traits": [
+                "Companion",
+                "Mercenary"
+            ],
+            "text": "Renown.\n<b>Reaction:</b> After you win a challenge in which Daario Naharis is attacking, choose another <i>Ally</i>, <i>Companion</i>, or <i>Mercenary</i> character. Stand that character and take control of it until the end of the phase.",
+            "deckLimit": 3,
+            "illustrator": "Borja Pindado"
+        },
+        {
+            "code": "08015",
+            "type": "attachment",
+            "name": "Bloody Arakh",
+            "octgnId": "9dc7ee57-7f92-4c0f-be64-df286f8a6144",
+            "quantity": 3,
+            "unique": false,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Weapon"
+            ],
+            "text": "<i>Dothraki</i> character only.\n<b>Reaction:</b> After you win a [military] challenge in which attached character is attacking, sacrifice Bloody Arakh. Then, you may initiate an additional [military] challenge this phase. (Max 1 per phase.)",
+            "deckLimit": 3,
+            "illustrator": "Ivan Dixon"
+        },
+        {
+            "code": "08016",
+            "type": "character",
+            "name": "Dorea Sand",
+            "octgnId": "07d10f78-444c-4597-addb-6fa9088e5c95",
+            "quantity": 3,
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 1,
+            "traits": [
+                "Bastard",
+                "Sand Snake"
+            ],
+            "text": "<b>Reaction:</b> After Dorea Sand enters play, choose another character with printed cost X or lower and return it to its owner's hand. X is the number of <i>Sand Snake</i> characters you control.",
+            "flavor": "\"Dorea stalks about knocking oranges off the trees with her morningstar...\" <cite>Doran Martell</cite>",
+            "deckLimit": 3,
+            "illustrator": "Joshua Cairós"
+        },
+        {
+            "code": "08017",
+            "type": "location",
+            "name": "The Water Gardens",
+            "octgnId": "30863a96-5585-44e5-abe6-af051e55a704",
+            "quantity": 3,
+            "unique": true,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 1,
+            "traits": [
+                "Dorne"
+            ],
+            "text": "<b>Action:</b> Kneel The Water Gardens to reduce the cost of the next non-character card you marshal, play, or ambush this phase by X. X is the number of plot cards in your used pile.",
+            "flavor": "There children frolicked naked in the sun, music played in tiled courtyards, and the air was sharp with the smell of lemons and blood oranges.",
+            "deckLimit": 3,
+            "illustrator": "Carlos Palma Cruchaga"
+        },
+        {
+            "code": "08018",
+            "type": "character",
+            "name": "Mag the Mighty",
+            "octgnId": "a0b953a2-7c6c-407b-aa8c-09d88d43ce28",
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 11,
+            "traits": [
+                "Giant",
+                "Wildling"
+            ],
+            "text": "Renown. No attachments except <i>Weapon</i>.\n<b>Forced Reaction:</b> After you win a challenge in which Mag the Mighty is participating, choose and kill a character you control. Then, the losing opponent chooses and kills a character he or she controls.",
+            "deckLimit": 3,
+            "illustrator": "David Demaret"
+        },
+        {
+            "code": "08019",
+            "type": "location",
+            "name": "The Iron Bank",
+            "octgnId": "5315414f-aba8-4949-a7c5-a5811dec8306",
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 1,
+            "traits": [
+                "Braavos"
+            ],
+            "text": "Bestow (1).\nDuring the marshaling phase, you may spend gold on The Iron Bank as if it were in your gold pool.\n<b>Reaction:</b> After you collect income, move X gold from the treasury to The Iron Bank. X is the number of gold on The Iron Bank.",
+            "deckLimit": 3,
+            "illustrator": "Logan Feliciano"
+        },
+        {
+            "code": "08020",
+            "type": "plot",
+            "name": "Valar Dohaeris",
+            "octgnId": "9c58b26d-aba6-43d8-b0af-69f48eda3958",
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 4,
+                "initiative": 5,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Omen"
+            ],
+            "text": "<b>When Revealed:</b> Each player chooses any number of characters he or she controls with a total printed cost of 10 or lower. Place each character not chosen on the bottom of its owner's deck (cannot be saved).",
+            "deckLimit": 1,
+            "illustrator": "Paolo Puggioni"
+        }
+    ]
+}

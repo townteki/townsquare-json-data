@@ -1,0 +1,420 @@
+{
+    "cgdbId": 25,
+    "code": "Km",
+    "name": "Kingsmoot",
+    "releaseDate": "2018-01-18",
+    "cards": [
+        {
+            "code": "08041",
+            "type": "character",
+            "name": "Ramsay Snow",
+            "octgnId": "c05f9111-d702-41ad-b79d-487e901d4801",
+            "quantity": 3,
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Bastard",
+                "House Bolton"
+            ],
+            "text": "<b>Forced Reaction:</b> After Ramsay Snow enters play, each player sacrifices a character, if able.",
+            "flavor": "\"Lord Bolton, he used to say a naked man has few secrets, but a flayed man's got none.\"",
+            "deckLimit": 3,
+            "illustrator": "Mauro Dal Bo"
+        },
+        {
+            "code": "08042",
+            "type": "location",
+            "name": "The Dreadfort",
+            "octgnId": "64d84ea4-5dc0-4a49-b011-3bfe82576cfe",
+            "quantity": 3,
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "House Bolton",
+                "The North"
+            ],
+            "text": "<b>Reaction:</b> After a character you control is sacrificed, kneel The Dreadfort to choose and stand a <i>House Bolton</i> or non-[stark] character.",
+            "deckLimit": 3,
+            "illustrator": "Alfred Khamidullin"
+        },
+        {
+            "code": "08043",
+            "type": "character",
+            "name": "Ser Hyle Hunt",
+            "octgnId": "71fabcf7-d8a3-446c-93d6-7abd7083719a",
+            "quantity": 3,
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Knight"
+            ],
+            "text": "<b>Action:</b> During a challenge in which Ser Hyle Hunt is participating, pay 1 gold to choose a participating character with a lower STR than his. Stand that character and remove it from the challenge. (Limit once per challenge.)",
+            "flavor": "\"His lordship informed me that he had no further need of my sword, or my insolence.\"",
+            "deckLimit": 3,
+            "illustrator": "Antonio José Manzanedo"
+        },
+        {
+            "code": "08044",
+            "type": "event",
+            "name": "The Bounty of Highgarden",
+            "octgnId": "59298af1-406c-4db5-870f-ade6185686dc",
+            "quantity": 3,
+            "faction": "tyrell",
+            "loyal": true,
+            "cost": 2,
+            "traits": [],
+            "text": "Limited.\n<b>Action:</b> Gain 5 gold. (Cannot be canceled.)",
+            "flavor": "And the bounty of Highgarden had come with her, flowing up the roseroad from the south. The fools didn't seem to remember that it had been Mace Tyrell who closed the roseroad to begin with, and made the bloody famine.",
+            "deckLimit": 3,
+            "illustrator": "Carlos Palma Cruchaga"
+        },
+        {
+            "code": "08045",
+            "type": "character",
+            "name": "Haunted Forest Scout",
+            "octgnId": "be14eb4a-339a-4a78-bc44-04203226d3d1",
+            "quantity": 3,
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Ally",
+                "Ranger"
+            ],
+            "text": "No attachments except <i>Weapon</i>.\nHaunted Forest Scout cannot be declared as a defender.\nWhile you control 3 or more <i>Ranger</i> characters, Haunted Forest Scout does not kneel when declared as an attacker.",
+            "deckLimit": 3,
+            "illustrator": "Stephen Somers"
+        },
+        {
+            "code": "08046",
+            "type": "location",
+            "name": "Mole's Town",
+            "octgnId": "0097a81a-5688-4d50-b46c-95c2933c4730",
+            "quantity": 3,
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": true,
+            "cost": 1,
+            "traits": [
+                "The North"
+            ],
+            "text": "Bestow (4).\n<b>Challenges Action:</b> Kneel Mole's Town to choose a character without gold. Move 1 gold from Mole's Town to that character. Then, that character cannot be declared as an attacker until the end of the phase.",
+            "deckLimit": 3,
+            "illustrator": "Paolo Puggioni"
+        },
+        {
+            "code": "08047",
+            "type": "character",
+            "name": "Lyseni Pirate",
+            "octgnId": "5d5def12-4932-40f5-9bb0-0c11fd552715",
+            "quantity": 3,
+            "unique": false,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 3,
+            "traits": [
+                "Raider",
+                "Smuggler"
+            ],
+            "text": "While you control a <i>Warship</i> location, Lyseni Pirate gains stealth.\n<b>Reaction:</b> After you win a challenge in which Lyseni Pirate is attacking, move 1 gold from the losing opponent’s gold pool or a card that player controls to your gold pool.",
+            "deckLimit": 3,
+            "illustrator": "Andreia Ugrai"
+        },
+        {
+            "code": "08048",
+            "type": "location",
+            "name": "Laughing Lord",
+            "octgnId": "23650e3b-e101-4acb-961d-4392807b4393",
+            "quantity": 3,
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Warship"
+            ],
+            "text": "<b>Reaction:</b> After you initiate a challenge, kneel Laughing Lord to choose an attacking [baratheon] character. Until the end of the challenge, that character gains intimidate.",
+            "flavor": "\"Ragged Jenna and Laughing Lord are still playing pirate on the river, I have heard, but who can say if it is so?\" <cite>Salladhor Saan</cite>",
+            "deckLimit": 3,
+            "illustrator": "Igor Artyomenko"
+        },
+        {
+            "code": "08049",
+            "type": "character",
+            "name": "Raff the Sweetling",
+            "octgnId": "d0e5ad82-30dc-4778-9e64-baf5fdc78230",
+            "quantity": 3,
+            "unique": true,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Ally"
+            ],
+            "text": "Pillage.\n<b>Reaction:</b> After Raff the Sweetling discards a character using pillage, choose a character with printed cost 2 or lower and return it to its owner’s hand.",
+            "flavor": "And Raff the Sweetling, who'd driven his spear through Lommy's throat, she hated even more.",
+            "deckLimit": 3,
+            "illustrator": "Victor Garcia"
+        },
+        {
+            "code": "08050",
+            "type": "event",
+            "name": "Sparring in Secret",
+            "octgnId": "65777116-fd79-4c7c-af9b-c1c3fdeb14d1",
+            "quantity": 3,
+            "faction": "lannister",
+            "loyal": false,
+            "cost": 1,
+            "traits": [],
+            "text": "<b>Action:</b> Kneel a <i>Knight</i> character to choose and stand another <i>Knight</i> character.",
+            "flavor": "He liked to believe that he was getting better, but the improvement was slow and not without cost. Underneath his steel and wool and boiled leather Jaime Lannister was a tapestry of cuts and scabs and bruises.",
+            "deckLimit": 3,
+            "illustrator": "Joshua Cairós"
+        },
+        {
+            "code": "08051",
+            "type": "character",
+            "name": "Asha Greyjoy",
+            "octgnId": "7deaa102-5c69-4a7b-9f40-b62e0a5b16d3",
+            "quantity": 3,
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Captain",
+                "Ironborn",
+                "Lady"
+            ],
+            "text": "Pillage. Stealth.\n<b>Reaction:</b> After Asha Greyjoy discards a card using pillage, search the top X cards of your deck for a card and add it to your hand. Shuffle your deck. X is the number of cards in the losing opponent's discard pile.",
+            "deckLimit": 3,
+            "illustrator": "Magali Villeneuve"
+        },
+        {
+            "code": "08052",
+            "type": "event",
+            "name": "Kingsmoot",
+            "octgnId": "c719492d-fba0-4db5-b277-3d784ae7b3fa",
+            "quantity": 3,
+            "faction": "greyjoy",
+            "loyal": true,
+            "cost": 2,
+            "traits": [],
+            "text": "<b>Reaction:</b> After you win dominance, choose a unique [greyjoy] character you control. That character gains 1 power for each unique [greyjoy] character you control. (Max 1 per round.)",
+            "flavor": "\"In the name of the Drowned God I summon you.\" <cite>Aeron Damphair</cite>",
+            "deckLimit": 3,
+            "illustrator": "Jeff Lee Johnson"
+        },
+        {
+            "code": "08053",
+            "type": "character",
+            "name": "Jhiqui",
+            "octgnId": "5dbc77fa-2128-4541-a63c-cbd9ae0c6519",
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Companion",
+                "Dothraki"
+            ],
+            "text": "<b>Reaction:</b> After you win a challenge, discard 1 card from your hand to have a participating <i>Lord</i> or <i>Lady</i> character gain 1 power.",
+            "flavor": "\"It is known.\"",
+            "deckLimit": 3,
+            "illustrator": "Drazenka Kimpel"
+        },
+        {
+            "code": "08054",
+            "type": "location",
+            "name": "The Skahazadhan",
+            "octgnId": "21103ed6-a8a5-4142-8cfa-444ec8be4c96",
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Essos"
+            ],
+            "text": "<b>Reaction:</b> After you reveal a plot card, kneel The Skahazadhan and discard 1 card from your hand to gain 2 gold. (3 gold instead if that plot card has the <i>Summer</i> trait.)",
+            "deckLimit": 3,
+            "illustrator": "Lukas Banas"
+        },
+        {
+            "code": "08055",
+            "type": "character",
+            "name": "Darkstar",
+            "octgnId": "6dc3e9e0-7c27-414d-a527-a2ab4576eb81",
+            "quantity": 3,
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "House Dayne",
+                "Knight"
+            ],
+            "text": "Stealth.\n<b>Reaction:</b> After Darkstar bypasses a character using stealth, that character loses a challenge icon of your choice until the end of the phase.",
+            "flavor": "\"I was weaned on venom, Dalt. Any viper takes a bite of me will rue it.\"",
+            "deckLimit": 3,
+            "illustrator": "Preston Stone"
+        },
+        {
+            "code": "08056",
+            "type": "attachment",
+            "name": "Sand Steed",
+            "octgnId": "1a1d68e1-397c-46be-b1bd-f94ea0d2814a",
+            "quantity": 3,
+            "unique": false,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Warhorse"
+            ],
+            "text": "Limit 1 copy per character.\n<b>Reaction:</b> After a <i>Summer</i> plot card enters your used pile, attached character gains 1 power.",
+            "flavor": "The sand steeds of Dorne were swift and tireless, and would keep going for long leagues after other horses had given out, but even such as they could not run dry",
+            "deckLimit": 3,
+            "illustrator": "Smirtouille"
+        },
+        {
+            "code": "08057",
+            "type": "character",
+            "name": "Tom of Sevenstreams",
+            "octgnId": "1ee6eea4-a102-41b8-b0ee-2fb5122bafc9",
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Brotherhood",
+                "Minstrel",
+                "R'hllor"
+            ],
+            "text": "<b>Reaction:</b> After you play a <i>Song</i> event, choose and stand a non-loyal character you control. (Limit once per phase.)",
+            "flavor": "\"Well, as to that, I'm Tom of Sevenstreams, but Tom Sevenstrings is what they call me, or Tom o' Sevens.\"",
+            "deckLimit": 3,
+            "illustrator": "Preston Stone"
+        },
+        {
+            "code": "08058",
+            "type": "character",
+            "name": "Lem Lemoncloak",
+            "octgnId": "53c0647c-053c-4775-9b8a-739df8a62406",
+            "quantity": 3,
+            "unique": true,
+            "faction": "neutral",
+            "cost": 3,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": false
+            },
+            "strength": 2,
+            "traits": [
+                "Brotherhood",
+                "R'hllor"
+            ],
+            "text": "While you control no loyal characters, Lem Lemoncloak gets +2 STR and gains a [power] icon.",
+            "flavor": "\"What do a bunch o'bloody peasants know about a lord's honor?\"",
+            "deckLimit": 3,
+            "illustrator": "David Demaret"
+        },
+        {
+            "code": "08059",
+            "type": "event",
+            "name": "Forgotten By History",
+            "octgnId": "0f382f07-3e08-4848-a962-21fb80847574",
+            "quantity": 3,
+            "faction": "neutral",
+            "cost": 3,
+            "traits": [],
+            "text": "<b>Dominance Action:</b> Kneel your faction card to choose a character with printed cost X or lower, and shuffle it into its owner's deck. X is the amount of power on the faction card of that character's controller.",
+            "deckLimit": 3,
+            "illustrator": "Sebastian Rodriguez"
+        },
+        {
+            "code": "08060",
+            "type": "plot",
+            "name": "The Withering Cold",
+            "octgnId": "8311f94d-092b-4a9b-8468-a59cbedc7bc2",
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 5,
+                "initiative": 6,
+                "claim": 1,
+                "reserve": 6
+            },
+            "traits": [
+                "Winter"
+            ],
+            "text": "Skip the standing phase this round.",
+            "designer": "Card design by 2013 North American Champion, Steven Simoni.",
+            "deckLimit": 1,
+            "illustrator": "Jacob Murray"
+        }
+    ]
+}

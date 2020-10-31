@@ -1,0 +1,1861 @@
+[
+    {
+        "id": "CHP05",
+        "name": "2016 World Championship Deck",
+        "releaseDate": "2017-06-01",
+        "faction": "lannister",
+        "agenda": "01203",
+        "cards": [
+            {
+                "code": "01004",
+                "count": 1
+            },
+            {
+                "code": "01007",
+                "count": 1
+            },
+            {
+                "code": "01009",
+                "count": 1
+            },
+            {
+                "code": "01010",
+                "count": 1
+            },
+            {
+                "code": "01015",
+                "count": 1
+            },
+            {
+                "code": "01033",
+                "count": 2
+            },
+            {
+                "code": "01035",
+                "count": 3
+            },
+            {
+                "code": "01039",
+                "count": 3
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "01041",
+                "count": 2
+            },
+            {
+                "code": "01044",
+                "count": 3
+            },
+            {
+                "code": "01084",
+                "count": 1
+            },
+            {
+                "code": "01087",
+                "count": 2
+            },
+            {
+                "code": "01088",
+                "count": 1
+            },
+            {
+                "code": "01089",
+                "count": 3
+            },
+            {
+                "code": "01090",
+                "count": 3
+            },
+            {
+                "code": "01091",
+                "count": 3
+            },
+            {
+                "code": "01094",
+                "count": 3
+            },
+            {
+                "code": "01099",
+                "count": 2
+            },
+            {
+                "code": "01101",
+                "count": 1
+            },
+            {
+                "code": "01102",
+                "count": 3
+            },
+            {
+                "code": "01141",
+                "count": 2
+            },
+            {
+                "code": "01142",
+                "count": 3
+            },
+            {
+                "code": "01152",
+                "count": 3
+            },
+            {
+                "code": "02009",
+                "count": 3
+            },
+            {
+                "code": "02049",
+                "count": 1
+            },
+            {
+                "code": "02070",
+                "count": 2
+            },
+            {
+                "code": "02079",
+                "count": 1
+            },
+            {
+                "code": "02099",
+                "count": 2
+            },
+            {
+                "code": "02102",
+                "count": 2
+            },
+            {
+                "code": "03003",
+                "count": 3
+            },
+            {
+                "code": "04039",
+                "count": 1
+            },
+            {
+                "code": "04049",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "uCHP07",
+        "name": "2017 World Championship Deck",
+        "releaseDate": "2018-04-05",
+        "faction": "targaryen",
+        "agenda": "02060",
+        "cards": [
+            {
+                "code": "01010",
+                "count": 1
+            },
+            {
+                "code": "01013",
+                "count": 2
+            },
+            {
+                "code": "01015",
+                "count": 1
+            },
+            {
+                "code": "01028",
+                "count": 1
+            },
+            {
+                "code": "01035",
+                "count": 2
+            },
+            {
+                "code": "01039",
+                "count": 2
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "01045",
+                "count": 2
+            },
+            {
+                "code": "01160",
+                "count": 3
+            },
+            {
+                "code": "01161",
+                "count": 2
+            },
+            {
+                "code": "01162",
+                "count": 3
+            },
+            {
+                "code": "01164",
+                "count": 3
+            },
+            {
+                "code": "01165",
+                "count": 2
+            },
+            {
+                "code": "01166",
+                "count": 3
+            },
+            {
+                "code": "01167",
+                "count": 3
+            },
+            {
+                "code": "01168",
+                "count": 1
+            },
+            {
+                "code": "01169",
+                "count": 1
+            },
+            {
+                "code": "01170",
+                "count": 2
+            },
+            {
+                "code": "01175",
+                "count": 2
+            },
+            {
+                "code": "01176",
+                "count": 3
+            },
+            {
+                "code": "01177",
+                "count": 2
+            },
+            {
+                "code": "02034",
+                "count": 1
+            },
+            {
+                "code": "02037",
+                "count": 1
+            },
+            {
+                "code": "02039",
+                "count": 1
+            },
+            {
+                "code": "02053",
+                "count": 1
+            },
+            {
+                "code": "02078",
+                "count": 1
+            },
+            {
+                "code": "02093",
+                "count": 1
+            },
+            {
+                "code": "02099",
+                "count": 3
+            },
+            {
+                "code": "02113",
+                "count": 1
+            },
+            {
+                "code": "04033",
+                "count": 1
+            },
+            {
+                "code": "04040",
+                "count": 1
+            },
+            {
+                "code": "04080",
+                "count": 1
+            },
+            {
+                "code": "04113",
+                "count": 1
+            },
+            {
+                "code": "06033",
+                "count": 2
+            },
+            {
+                "code": "06038",
+                "count": 2
+            },
+            {
+                "code": "06093",
+                "count": 1
+            },
+            {
+                "code": "06098",
+                "count": 2
+            },
+            {
+                "code": "06099",
+                "count": 1
+            },
+            {
+                "code": "07036",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": "GT37",
+        "name": "House Stark Intro Deck",
+        "releaseDate": "2018-08-23",
+        "faction": "stark",
+        "agenda": "01027",
+        "cards": [
+            {
+                "code": "01004",
+                "count": 1
+            },
+            {
+                "code": "01022",
+                "count": 1
+            },
+            {
+                "code": "01025",
+                "count": 1
+            },
+            {
+                "code": "01026",
+                "count": 1
+            },
+            {
+                "code": "01032",
+                "count": 1
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "01041",
+                "count": 2
+            },
+            {
+                "code": "01141",
+                "count": 2
+            },
+            {
+                "code": "01142",
+                "count": 2
+            },
+            {
+                "code": "01145",
+                "count": 1
+            },
+            {
+                "code": "01146",
+                "count": 2
+            },
+            {
+                "code": "01148",
+                "count": 1
+            },
+            {
+                "code": "01149",
+                "count": 2
+            },
+            {
+                "code": "01150",
+                "count": 3
+            },
+            {
+                "code": "01152",
+                "count": 3
+            },
+            {
+                "code": "01153",
+                "count": 1
+            },
+            {
+                "code": "01154",
+                "count": 2
+            },
+            {
+                "code": "01156",
+                "count": 3
+            },
+            {
+                "code": "01159",
+                "count": 3
+            },
+            {
+                "code": "03002",
+                "count": 2
+            },
+            {
+                "code": "03003",
+                "count": 2
+            },
+            {
+                "code": "03005",
+                "count": 1
+            },
+            {
+                "code": "03011",
+                "count": 1
+            },
+            {
+                "code": "03012",
+                "count": 2
+            },
+            {
+                "code": "03013",
+                "count": 2
+            },
+            {
+                "code": "03020",
+                "count": 1
+            },
+            {
+                "code": "03021",
+                "count": 2
+            },
+            {
+                "code": "03047",
+                "count": 1
+            },
+            {
+                "code": "05033",
+                "count": 1
+            },
+            {
+                "code": "06038",
+                "count": 2
+            },
+            {
+                "code": "06061",
+                "count": 2
+            },
+            {
+                "code": "06082",
+                "count": 1
+            },
+            {
+                "code": "06102",
+                "count": 1
+            },
+            {
+                "code": "07033",
+                "count": 1
+            },
+            {
+                "code": "08002",
+                "count": 2
+            },
+            {
+                "code": "08041",
+                "count": 1
+            },
+            {
+                "code": "08061",
+                "count": 1
+            },
+            {
+                "code": "08082",
+                "count": 2
+            },
+            {
+                "code": "09052",
+                "count": 1
+            },
+            {
+                "code": "10033",
+                "count": 1
+            },
+            {
+                "code": "10034",
+                "count": 1
+            },
+            {
+                "code": "10052",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "GT38",
+        "name": "House Lannister Intro Deck",
+        "releaseDate": "2018-08-23",
+        "faction": "lannister",
+        "agenda": "01027",
+        "cards": [
+            {
+                "code": "01003",
+                "count": 1
+            },
+            {
+                "code": "01004",
+                "count": 1
+            },
+            {
+                "code": "01022",
+                "count": 1
+            },
+            {
+                "code": "01026",
+                "count": 1
+            },
+            {
+                "code": "01028",
+                "count": 1
+            },
+            {
+                "code": "01033",
+                "count": 2
+            },
+            {
+                "code": "01040",
+                "count": 2
+            },
+            {
+                "code": "01044",
+                "count": 2
+            },
+            {
+                "code": "01085",
+                "count": 1
+            },
+            {
+                "code": "01086",
+                "count": 2
+            },
+            {
+                "code": "01087",
+                "count": 2
+            },
+            {
+                "code": "01088",
+                "count": 1
+            },
+            {
+                "code": "01089",
+                "count": 2
+            },
+            {
+                "code": "01091",
+                "count": 3
+            },
+            {
+                "code": "01092",
+                "count": 1
+            },
+            {
+                "code": "01094",
+                "count": 3
+            },
+            {
+                "code": "01096",
+                "count": 1
+            },
+            {
+                "code": "01097",
+                "count": 2
+            },
+            {
+                "code": "01098",
+                "count": 2
+            },
+            {
+                "code": "01099",
+                "count": 3
+            },
+            {
+                "code": "01100",
+                "count": 2
+            },
+            {
+                "code": "01101",
+                "count": 2
+            },
+            {
+                "code": "05001",
+                "count": 3
+            },
+            {
+                "code": "05006",
+                "count": 2
+            },
+            {
+                "code": "05008",
+                "count": 2
+            },
+            {
+                "code": "05015",
+                "count": 1
+            },
+            {
+                "code": "05016",
+                "count": 3
+            },
+            {
+                "code": "05017",
+                "count": 1
+            },
+            {
+                "code": "05021",
+                "count": 1
+            },
+            {
+                "code": "05022",
+                "count": 1
+            },
+            {
+                "code": "05047",
+                "count": 1
+            },
+            {
+                "code": "05050",
+                "count": 1
+            },
+            {
+                "code": "06020",
+                "count": 1
+            },
+            {
+                "code": "06029",
+                "count": 1
+            },
+            {
+                "code": "06049",
+                "count": 2
+            },
+            {
+                "code": "06110",
+                "count": 2
+            },
+            {
+                "code": "08029",
+                "count": 2
+            },
+            {
+                "code": "08038",
+                "count": 1
+            },
+            {
+                "code": "08049",
+                "count": 1
+            },
+            {
+                "code": "08109",
+                "count": 1
+            },
+            {
+                "code": "09029",
+                "count": 1
+            },
+            {
+                "code": "10029",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "GT39",
+        "name": "House Greyjoy Intro Deck",
+        "releaseDate": "2018-08-23",
+        "faction": "greyjoy",
+        "agenda": "01027",
+        "cards": [
+            {
+                "code": "01004",
+                "count": 1
+            },
+            {
+                "code": "01010",
+                "count": 1
+            },
+            {
+                "code": "01015",
+                "count": 1
+            },
+            {
+                "code": "01021",
+                "count": 1
+            },
+            {
+                "code": "01026",
+                "count": 1
+            },
+            {
+                "code": "01035",
+                "count": 2
+            },
+            {
+                "code": "01039",
+                "count": 2
+            },
+            {
+                "code": "01040",
+                "count": 2
+            },
+            {
+                "code": "01041",
+                "count": 2
+            },
+            {
+                "code": "01066",
+                "count": 2
+            },
+            {
+                "code": "01068",
+                "count": 2
+            },
+            {
+                "code": "01069",
+                "count": 2
+            },
+            {
+                "code": "01070",
+                "count": 1
+            },
+            {
+                "code": "01072",
+                "count": 3
+            },
+            {
+                "code": "01074",
+                "count": 3
+            },
+            {
+                "code": "01075",
+                "count": 3
+            },
+            {
+                "code": "01076",
+                "count": 3
+            },
+            {
+                "code": "01079",
+                "count": 2
+            },
+            {
+                "code": "01080",
+                "count": 3
+            },
+            {
+                "code": "01081",
+                "count": 2
+            },
+            {
+                "code": "01083",
+                "count": 2
+            },
+            {
+                "code": "05027",
+                "count": 2
+            },
+            {
+                "code": "06032",
+                "count": 2
+            },
+            {
+                "code": "06051",
+                "count": 2
+            },
+            {
+                "code": "06052",
+                "count": 1
+            },
+            {
+                "code": "06072",
+                "count": 1
+            },
+            {
+                "code": "06091",
+                "count": 1
+            },
+            {
+                "code": "06092",
+                "count": 1
+            },
+            {
+                "code": "07027",
+                "count": 2
+            },
+            {
+                "code": "08012",
+                "count": 2
+            },
+            {
+                "code": "08031",
+                "count": 1
+            },
+            {
+                "code": "08032",
+                "count": 2
+            },
+            {
+                "code": "08051",
+                "count": 2
+            },
+            {
+                "code": "08071",
+                "count": 1
+            },
+            {
+                "code": "08072",
+                "count": 1
+            },
+            {
+                "code": "09028",
+                "count": 1
+            },
+            {
+                "code": "09047",
+                "count": 1
+            },
+            {
+                "code": "09051",
+                "count": 1
+            },
+            {
+                "code": "10027",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": "GT40",
+        "name": "House Baratheon Intro Deck",
+        "releaseDate": "2018-08-23",
+        "faction": "baratheon",
+        "agenda": "01027",
+        "cards": [
+            {
+                "code": "01002",
+                "count": 1
+            },
+            {
+                "code": "01011",
+                "count": 1
+            },
+            {
+                "code": "01026",
+                "count": 1
+            },
+            {
+                "code": "01038",
+                "count": 2
+            },
+            {
+                "code": "01039",
+                "count": 2
+            },
+            {
+                "code": "01040",
+                "count": 2
+            },
+            {
+                "code": "01046",
+                "count": 1
+            },
+            {
+                "code": "01048",
+                "count": 2
+            },
+            {
+                "code": "01049",
+                "count": 2
+            },
+            {
+                "code": "01050",
+                "count": 2
+            },
+            {
+                "code": "01051",
+                "count": 1
+            },
+            {
+                "code": "01052",
+                "count": 3
+            },
+            {
+                "code": "01053",
+                "count": 3
+            },
+            {
+                "code": "01054",
+                "count": 3
+            },
+            {
+                "code": "01056",
+                "count": 3
+            },
+            {
+                "code": "01057",
+                "count": 2
+            },
+            {
+                "code": "01059",
+                "count": 3
+            },
+            {
+                "code": "01060",
+                "count": 2
+            },
+            {
+                "code": "01061",
+                "count": 2
+            },
+            {
+                "code": "03026",
+                "count": 2
+            },
+            {
+                "code": "03041",
+                "count": 1
+            },
+            {
+                "code": "05025",
+                "count": 1
+            },
+            {
+                "code": "05026",
+                "count": 1
+            },
+            {
+                "code": "06008",
+                "count": 1
+            },
+            {
+                "code": "06020",
+                "count": 1
+            },
+            {
+                "code": "06027",
+                "count": 2
+            },
+            {
+                "code": "06028",
+                "count": 1
+            },
+            {
+                "code": "06047",
+                "count": 2
+            },
+            {
+                "code": "06048",
+                "count": 1
+            },
+            {
+                "code": "06088",
+                "count": 2
+            },
+            {
+                "code": "08009",
+                "count": 2
+            },
+            {
+                "code": "08028",
+                "count": 2
+            },
+            {
+                "code": "08037",
+                "count": 1
+            },
+            {
+                "code": "08040",
+                "count": 1
+            },
+            {
+                "code": "08048",
+                "count": 1
+            },
+            {
+                "code": "08068",
+                "count": 1
+            },
+            {
+                "code": "08107",
+                "count": 2
+            },
+            {
+                "code": "08117",
+                "count": 1
+            },
+            {
+                "code": "09048",
+                "count": 1
+            },
+            {
+                "code": "10025",
+                "count": 1
+            },
+            {
+                "code": "10047",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "GT41",
+        "name": "House Tyrell Intro Deck",
+        "releaseDate": "2018-08-23",
+        "faction": "tyrell",
+        "agenda": "01027",
+        "cards": [
+            {
+                "code": "01004",
+                "count": 1
+            },
+            {
+                "code": "01008",
+                "count": 1
+            },
+            {
+                "code": "01010",
+                "count": 1
+            },
+            {
+                "code": "01026",
+                "count": 1
+            },
+            {
+                "code": "01179",
+                "count": 2
+            },
+            {
+                "code": "01181",
+                "count": 2
+            },
+            {
+                "code": "01183",
+                "count": 2
+            },
+            {
+                "code": "01184",
+                "count": 2
+            },
+            {
+                "code": "01185",
+                "count": 2
+            },
+            {
+                "code": "01186",
+                "count": 3
+            },
+            {
+                "code": "01187",
+                "count": 3
+            },
+            {
+                "code": "01188",
+                "count": 3
+            },
+            {
+                "code": "01191",
+                "count": 1
+            },
+            {
+                "code": "01192",
+                "count": 1
+            },
+            {
+                "code": "01193",
+                "count": 1
+            },
+            {
+                "code": "01194",
+                "count": 3
+            },
+            {
+                "code": "01195",
+                "count": 3
+            },
+            {
+                "code": "01197",
+                "count": 3
+            },
+            {
+                "code": "03050",
+                "count": 1
+            },
+            {
+                "code": "05037",
+                "count": 2
+            },
+            {
+                "code": "05051",
+                "count": 1
+            },
+            {
+                "code": "06023",
+                "count": 2
+            },
+            {
+                "code": "06024",
+                "count": 1
+            },
+            {
+                "code": "06038",
+                "count": 2
+            },
+            {
+                "code": "06043",
+                "count": 1
+            },
+            {
+                "code": "06044",
+                "count": 1
+            },
+            {
+                "code": "06064",
+                "count": 1
+            },
+            {
+                "code": "07037",
+                "count": 1
+            },
+            {
+                "code": "07038",
+                "count": 1
+            },
+            {
+                "code": "07049",
+                "count": 1
+            },
+            {
+                "code": "08004",
+                "count": 1
+            },
+            {
+                "code": "08024",
+                "count": 1
+            },
+            {
+                "code": "08038",
+                "count": 1
+            },
+            {
+                "code": "08043",
+                "count": 1
+            },
+            {
+                "code": "08044",
+                "count": 2
+            },
+            {
+                "code": "08063",
+                "count": 1
+            },
+            {
+                "code": "08103",
+                "count": 2
+            },
+            {
+                "code": "08104",
+                "count": 1
+            },
+            {
+                "code": "09002",
+                "count": 1
+            },
+            {
+                "code": "09013",
+                "count": 1
+            },
+            {
+                "code": "09015",
+                "count": 2
+            },
+            {
+                "code": "09018",
+                "count": 1
+            },
+            {
+                "code": "09023",
+                "count": 1
+            },
+            {
+                "code": "10038",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "GT42",
+        "name": "House Martell Intro Deck",
+        "releaseDate": "2018-08-23",
+        "faction": "martell",
+        "agenda": "01027",
+        "cards": [
+            {
+                "code": "01003",
+                "count": 1
+            },
+            {
+                "code": "01007",
+                "count": 1
+            },
+            {
+                "code": "01008",
+                "count": 1
+            },
+            {
+                "code": "01010",
+                "count": 1
+            },
+            {
+                "code": "01039",
+                "count": 1
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "01103",
+                "count": 1
+            },
+            {
+                "code": "01107",
+                "count": 1
+            },
+            {
+                "code": "01110",
+                "count": 3
+            },
+            {
+                "code": "01112",
+                "count": 2
+            },
+            {
+                "code": "01113",
+                "count": 3
+            },
+            {
+                "code": "01114",
+                "count": 2
+            },
+            {
+                "code": "01116",
+                "count": 1
+            },
+            {
+                "code": "01118",
+                "count": 3
+            },
+            {
+                "code": "01121",
+                "count": 2
+            },
+            {
+                "code": "03032",
+                "count": 2
+            },
+            {
+                "code": "05051",
+                "count": 1
+            },
+            {
+                "code": "06056",
+                "count": 2
+            },
+            {
+                "code": "06076",
+                "count": 2
+            },
+            {
+                "code": "06095",
+                "count": 2
+            },
+            {
+                "code": "06115",
+                "count": 2
+            },
+            {
+                "code": "06116",
+                "count": 2
+            },
+            {
+                "code": "07047",
+                "count": 1
+            },
+            {
+                "code": "08016",
+                "count": 1
+            },
+            {
+                "code": "08020",
+                "count": 1
+            },
+            {
+                "code": "08035",
+                "count": 2
+            },
+            {
+                "code": "08036",
+                "count": 1
+            },
+            {
+                "code": "08055",
+                "count": 1
+            },
+            {
+                "code": "08076",
+                "count": 1
+            },
+            {
+                "code": "09031",
+                "count": 1
+            },
+            {
+                "code": "09032",
+                "count": 1
+            },
+            {
+                "code": "10001",
+                "count": 1
+            },
+            {
+                "code": "10005",
+                "count": 2
+            },
+            {
+                "code": "10007",
+                "count": 2
+            },
+            {
+                "code": "10008",
+                "count": 2
+            },
+            {
+                "code": "10010",
+                "count": 2
+            },
+            {
+                "code": "10013",
+                "count": 2
+            },
+            {
+                "code": "10016",
+                "count": 2
+            },
+            {
+                "code": "10017",
+                "count": 1
+            },
+            {
+                "code": "10018",
+                "count": 1
+            },
+            {
+                "code": "10021",
+                "count": 2
+            },
+            {
+                "code": "10022",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "GT43",
+        "name": "House Targaryen Intro Deck",
+        "releaseDate": "2018-08-23",
+        "faction": "targaryen",
+        "agenda": "01027",
+        "cards": [
+            {
+                "code": "01007",
+                "count": 1
+            },
+            {
+                "code": "01018",
+                "count": 1
+            },
+            {
+                "code": "01019",
+                "count": 1
+            },
+            {
+                "code": "01022",
+                "count": 1
+            },
+            {
+                "code": "01026",
+                "count": 1
+            },
+            {
+                "code": "01040",
+                "count": 1
+            },
+            {
+                "code": "01160",
+                "count": 3
+            },
+            {
+                "code": "01161",
+                "count": 2
+            },
+            {
+                "code": "01162",
+                "count": 2
+            },
+            {
+                "code": "01163",
+                "count": 1
+            },
+            {
+                "code": "01164",
+                "count": 2
+            },
+            {
+                "code": "01165",
+                "count": 1
+            },
+            {
+                "code": "01166",
+                "count": 2
+            },
+            {
+                "code": "01167",
+                "count": 1
+            },
+            {
+                "code": "01168",
+                "count": 3
+            },
+            {
+                "code": "01169",
+                "count": 3
+            },
+            {
+                "code": "01170",
+                "count": 3
+            },
+            {
+                "code": "01171",
+                "count": 2
+            },
+            {
+                "code": "01173",
+                "count": 1
+            },
+            {
+                "code": "01175",
+                "count": 3
+            },
+            {
+                "code": "01176",
+                "count": 2
+            },
+            {
+                "code": "01177",
+                "count": 3
+            },
+            {
+                "code": "01178",
+                "count": 2
+            },
+            {
+                "code": "03036",
+                "count": 1
+            },
+            {
+                "code": "05035",
+                "count": 1
+            },
+            {
+                "code": "05051",
+                "count": 1
+            },
+            {
+                "code": "06014",
+                "count": 2
+            },
+            {
+                "code": "06038",
+                "count": 2
+            },
+            {
+                "code": "06053",
+                "count": 2
+            },
+            {
+                "code": "06074",
+                "count": 1
+            },
+            {
+                "code": "06113",
+                "count": 2
+            },
+            {
+                "code": "07035",
+                "count": 2
+            },
+            {
+                "code": "07047",
+                "count": 1
+            },
+            {
+                "code": "08034",
+                "count": 2
+            },
+            {
+                "code": "08053",
+                "count": 1
+            },
+            {
+                "code": "08114",
+                "count": 2
+            },
+            {
+                "code": "09037",
+                "count": 1
+            },
+            {
+                "code": "09044",
+                "count": 2
+            },
+            {
+                "code": "10035",
+                "count": 1
+            },
+            {
+                "code": "10042",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "id": "GT44",
+        "name": "Night's Watch Intro Deck",
+        "releaseDate": "2018-08-23",
+        "faction": "thenightswatch",
+        "agenda": "01027",
+        "cards": [
+            {
+                "code": "01006",
+                "count": 1
+            },
+            {
+                "code": "01015",
+                "count": 1
+            },
+            {
+                "code": "01021",
+                "count": 1
+            },
+            {
+                "code": "01039",
+                "count": 3
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "01122",
+                "count": 1
+            },
+            {
+                "code": "01125",
+                "count": 1
+            },
+            {
+                "code": "01127",
+                "count": 2
+            },
+            {
+                "code": "01129",
+                "count": 1
+            },
+            {
+                "code": "01130",
+                "count": 3
+            },
+            {
+                "code": "01132",
+                "count": 2
+            },
+            {
+                "code": "01133",
+                "count": 3
+            },
+            {
+                "code": "01134",
+                "count": 2
+            },
+            {
+                "code": "01135",
+                "count": 1
+            },
+            {
+                "code": "01136",
+                "count": 1
+            },
+            {
+                "code": "01137",
+                "count": 3
+            },
+            {
+                "code": "01139",
+                "count": 1
+            },
+            {
+                "code": "03034",
+                "count": 1
+            },
+            {
+                "code": "03040",
+                "count": 1
+            },
+            {
+                "code": "03052",
+                "count": 1
+            },
+            {
+                "code": "05032",
+                "count": 1
+            },
+            {
+                "code": "05041",
+                "count": 2
+            },
+            {
+                "code": "06006",
+                "count": 1
+            },
+            {
+                "code": "06017",
+                "count": 2
+            },
+            {
+                "code": "06020",
+                "count": 1
+            },
+            {
+                "code": "06045",
+                "count": 2
+            },
+            {
+                "code": "06046",
+                "count": 2
+            },
+            {
+                "code": "06065",
+                "count": 1
+            },
+            {
+                "code": "06085",
+                "count": 2
+            },
+            {
+                "code": "07001",
+                "count": 3
+            },
+            {
+                "code": "07003",
+                "count": 2
+            },
+            {
+                "code": "07007",
+                "count": 1
+            },
+            {
+                "code": "07016",
+                "count": 2
+            },
+            {
+                "code": "07019",
+                "count": 1
+            },
+            {
+                "code": "07022",
+                "count": 2
+            },
+            {
+                "code": "07023",
+                "count": 2
+            },
+            {
+                "code": "07040",
+                "count": 1
+            },
+            {
+                "code": "07043",
+                "count": 1
+            },
+            {
+                "code": "08020",
+                "count": 1
+            },
+            {
+                "code": "08105",
+                "count": 1
+            },
+            {
+                "code": "09051",
+                "count": 1
+            },
+            {
+                "code": "10044",
+                "count": 2
+            }
+        ]
+    },
+    {
+        "id": "uCHP10",
+        "name": "2018 World Championship Deck",
+        "releaseDate": "2019-04-04",
+        "faction": "martell",
+        "agenda": "01203",
+        "cards": [
+            {
+                "code": "01015",
+                "count": 2
+            },
+            {
+                "code": "01028",
+                "count": 1
+            },
+            {
+                "code": "01040",
+                "count": 3
+            },
+            {
+                "code": "01103",
+                "count": 3
+            },
+            {
+                "code": "01104",
+                "count": 1
+            },
+            {
+                "code": "01112",
+                "count": 3
+            },
+            {
+                "code": "01116",
+                "count": 1
+            },
+            {
+                "code": "01142",
+                "count": 3
+            },
+            {
+                "code": "02015",
+                "count": 2
+            },
+            {
+                "code": "02035",
+                "count": 1
+            },
+            {
+                "code": "02099",
+                "count": 2
+            },
+            {
+                "code": "02102",
+                "count": 3
+            },
+            {
+                "code": "03021",
+                "count": 2
+            },
+            {
+                "code": "04036",
+                "count": 1
+            },
+            {
+                "code": "04078",
+                "count": 1
+            },
+            {
+                "code": "04080",
+                "count": 1
+            },
+            {
+                "code": "06056",
+                "count": 3
+            },
+            {
+                "code": "06076",
+                "count": 2
+            },
+            {
+                "code": "06097",
+                "count": 1
+            },
+            {
+                "code": "06098",
+                "count": 3
+            },
+            {
+                "code": "06099",
+                "count": 2
+            },
+            {
+                "code": "06115",
+                "count": 3
+            },
+            {
+                "code": "07031",
+                "count": 1
+            },
+            {
+                "code": "08017",
+                "count": 2
+            },
+            {
+                "code": "08020",
+                "count": 1
+            },
+            {
+                "code": "08038",
+                "count": 1
+            },
+            {
+                "code": "08041",
+                "count": 2
+            },
+            {
+                "code": "08081",
+                "count": 2
+            },
+            {
+                "code": "08120",
+                "count": 1
+            },
+            {
+                "code": "09051",
+                "count": 1
+            },
+            {
+                "code": "10016",
+                "count": 3
+            },
+            {
+                "code": "10017",
+                "count": 2
+            },
+            {
+                "code": "10018",
+                "count": 1
+            },
+            {
+                "code": "11002",
+                "count": 2
+            },
+            {
+                "code": "11020",
+                "count": 1
+            },
+            {
+                "code": "11056",
+                "count": 3
+            }
+        ]
+    }
+]

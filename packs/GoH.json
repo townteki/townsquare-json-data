@@ -1,0 +1,419 @@
+{
+    "cgdbId": 13,
+    "code": "GoH",
+    "name": "Ghosts of Harrenhal",
+    "releaseDate": "2017-01-05",
+    "cards": [
+        {
+            "code": "04081",
+            "type": "character",
+            "name": "Roose Bolton",
+            "octgnId": "379f57f9-d274-40d1-81d0-6c91ce71cf1f",
+            "quantity": 3,
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Ally",
+                "House Bolton",
+                "Lord"
+            ],
+            "text": "<b>Reaction:</b> After you win a challenge in which Roose Bolton is attacking, choose up to X total STR worth of characters controlled by the losing opponent. X is Roose Bolton's STR. Sacrifice Roose Bolton to kill each of those characters.",
+            "flavor": "\"Fear is what keeps a man alive in this world of treachery and deceit.\"",
+            "deckLimit": 3,
+            "illustrator": "David Auden Nash"
+        },
+        {
+            "code": "04082",
+            "type": "location",
+            "name": "Harrenhal",
+            "octgnId": "33ea9760-3327-483e-8273-61815849f334",
+            "quantity": 3,
+            "unique": true,
+            "faction": "stark",
+            "loyal": false,
+            "cost": 4,
+            "traits": [
+                "Contested",
+                "Stronghold"
+            ],
+            "text": "<b>Reaction:</b> After a character enters play, kneel your faction card and sacrifice Harrenhal to kill it.",
+            "flavor": "Harrenhal had seen more horror in its three hundred years than Casterly Rock had witnessed in three thousand.",
+            "deckLimit": 3,
+            "illustrator": "Matthew Cowdery"
+        },
+        {
+            "code": "04083",
+            "type": "character",
+            "name": "Brienne of Tarth",
+            "octgnId": "60e649e3-c3ee-4814-83bf-e39ac86a3cd7",
+            "quantity": 3,
+            "unique": true,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 5,
+            "traits": [
+                "Lady"
+            ],
+            "text": "Renown.\nWhile you control a <i>King</i> character or Catelyn Stark, Brienne of Tarth does not kneel when declared as a defender.",
+            "flavor": "\"He said that all his other knights wanted things of him, castles or honors or riches, but all that Brienne wanted was to die for him.\" <cite>The Knight of Flowers</cite>",
+            "deckLimit": 3,
+            "illustrator": "Nicholas Gregory"
+        },
+        {
+            "code": "04084",
+            "type": "event",
+            "name": "Offer of a Peach",
+            "octgnId": "bae47d3f-07ee-4a55-9133-325dbfc80db5",
+            "quantity": 3,
+            "faction": "tyrell",
+            "loyal": false,
+            "cost": 1,
+            "traits": [],
+            "text": "Play only if you control Renly Baratheon or a <i>Lady</i> character.\n<b>Challenges Action:</b> Choose an attacking character. Stand that character and remove it from the challenge.",
+            "flavor": "\"Only Renly could vex me so with a piece of fruit.\" <cite>Stannis Baratheon</cite>",
+            "deckLimit": 3,
+            "illustrator": "Nicholas Gregory"
+        },
+        {
+            "code": "04085",
+            "type": "character",
+            "name": "Craster",
+            "octgnId": "29fd80ee-b8ad-41f0-8342-1b75fe1e9b22",
+            "quantity": 3,
+            "unique": true,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": false
+            },
+            "strength": 4,
+            "traits": [
+                "Ally",
+                "Wildling"
+            ],
+            "text": "Immune to <i>Omen</i> card effects.\n<b>Action:</b> Sacrifice Craster to put each character that was killed this phase into play from its owner's dead pile.",
+            "flavor": "\"Even so, he's never turned a ranger away from his fire\" <cite>Thoren Smallwood</cite>",
+            "deckLimit": 3,
+            "illustrator": "Victor Manuel Leza Moreno"
+        },
+        {
+            "code": "04086",
+            "type": "attachment",
+            "name": "Dragonglass Dagger",
+            "octgnId": "8a6edfaa-ee18-48ad-bf1f-bee0d35f5518",
+            "quantity": 3,
+            "unique": false,
+            "faction": "thenightswatch",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Weapon"
+            ],
+            "text": "[thenightswatch] character only.\nWhile attached character is participating in a challenge, it gets +2 STR and is immune to opponent's character abilities.",
+            "flavor": "Dragonglass. What the maesters call obsidian.",
+            "deckLimit": 3,
+            "illustrator": "Zezhou Chen"
+        },
+        {
+            "code": "04087",
+            "type": "character",
+            "name": "Ser Davos Seaworth",
+            "octgnId": "7df1964b-153c-4832-8383-d59135ace064",
+            "quantity": 3,
+            "unique": true,
+            "faction": "baratheon",
+            "loyal": true,
+            "cost": 6,
+            "icons": {
+                "military": true,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Knight",
+                "Lord",
+                "Smuggler"
+            ],
+            "text": "Stealth.\n<b>Reaction:</b> After Ser Davos Seaworth bypasses a non-loyal character using stealth, either: draw 1 card, or gain 1 gold.",
+            "flavor": "\"Aye, I've broken laws, but I never felt evil until tonight.\"",
+            "deckLimit": 3,
+            "illustrator": "David Auden Nash"
+        },
+        {
+            "code": "04088",
+            "type": "event",
+            "name": "Ritual of R'hllor",
+            "octgnId": "fc9babe6-89fc-4d24-84a9-d0927739f548",
+            "quantity": 3,
+            "faction": "baratheon",
+            "loyal": false,
+            "cost": "X",
+            "traits": [
+                "R'hllor"
+            ],
+            "text": "<b>Reaction:</b> After you win dominance, choose X standing <i>R'hllor</i> characters. Each of those characters gains 1 power.",
+            "flavor": "The morning air was dark with the smoke of burning gods.",
+            "deckLimit": 3,
+            "illustrator": "Tomasz Jedruszek"
+        },
+        {
+            "code": "04089",
+            "type": "character",
+            "name": "Joffrey Baratheon",
+            "octgnId": "3f2d0918-70b8-44d9-9f88-fa45a477a85b",
+            "quantity": 3,
+            "unique": true,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 7,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "King",
+                "Lord"
+            ],
+            "text": "<b>Reaction:</b> After you marshal a loyal character, kneel that character and your faction card to choose and kill a non-<i>King</i> character with a lower printed cost.",
+            "flavor": "\"...you can lead a king to water, but with Joff one had to splash it about before he realized he could drink it.\" <cite>Littlefinger</cite>",
+            "deckLimit": 3,
+            "illustrator": "Nicholas Gregory"
+        },
+        {
+            "code": "04090",
+            "type": "location",
+            "name": "Chataya's Brothel",
+            "octgnId": "e49a0c0b-517b-410a-b10b-c0e8baed88cc",
+            "quantity": 3,
+            "unique": true,
+            "faction": "lannister",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "King's Landing"
+            ],
+            "text": "<b>Marshaling Action:</b> Kneel a character with an [intrigue] icon to gain 1 gold. (Limit twice per phase.)",
+            "flavor": "In Chataya's brothel, Shae would have all the silks and gems she could wish for, and the gentlest highborn patrons.",
+            "deckLimit": 3,
+            "illustrator": "Paolo Puggioni"
+        },
+        {
+            "code": "04091",
+            "type": "character",
+            "name": "Helya",
+            "octgnId": "63f04104-0cf3-497d-b662-da3f8d78ce9c",
+            "quantity": 3,
+            "unique": true,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 2,
+            "icons": {
+                "military": false,
+                "intrigue": false,
+                "power": true
+            },
+            "strength": 2,
+            "traits": [
+                "Ironborn",
+                "Steward"
+            ],
+            "text": "Each attachment gains terminal.",
+            "flavor": "\"M'lord, I am sent to show you to chambers.\"",
+            "deckLimit": 3,
+            "illustrator": "Tristan Denecke"
+        },
+        {
+            "code": "04092",
+            "type": "event",
+            "name": "Bless Him With Salt",
+            "octgnId": "58adb005-2fa3-4a92-a24c-30fac4067eb9",
+            "quantity": 3,
+            "faction": "greyjoy",
+            "loyal": false,
+            "cost": 1,
+            "traits": [
+                "Blessing"
+            ],
+            "text": "Play only during a [power] challenge.\n<b>Action:</b> Choose a participating <i>Drowned God</i> or <i>Ironborn</i> character. Until the end of the challenge, that character gets +3 STR. If you win the challenge, draw 1 card.",
+            "flavor": "The first three men had offered their lives to the Drowned God fearlessly...",
+            "deckLimit": 3,
+            "illustrator": "Joel Hustak"
+        },
+        {
+            "code": "04093",
+            "type": "character",
+            "name": "Xaro Xhoan Daxos",
+            "octgnId": "a6ad6c68-382a-43d8-bc2b-ebfc366d9cc8",
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 5,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 4,
+            "traits": [
+                "Merchant"
+            ],
+            "text": "<b>Reaction:</b> After you marshal a unique attachment, gain 2 gold. (Limit once per phase.)",
+            "flavor": "...Xaro Xhoan Daxos saw to it that the great and the humble alike offered some token to the Mother of Dragons.",
+            "deckLimit": 3,
+            "illustrator": "JB Casacop"
+        },
+        {
+            "code": "04094",
+            "type": "attachment",
+            "name": "Mother of Dragons",
+            "octgnId": "bdf93ac1-0765-4d5c-af62-da26789519f3",
+            "quantity": 3,
+            "unique": true,
+            "faction": "targaryen",
+            "loyal": false,
+            "cost": 2,
+            "traits": [
+                "Title"
+            ],
+            "text": "<i>Stormborn</i> character you control only.\n<b>Challenges Action:</b> During a challenge in which you control a participating <i>Dragon</i> character, kneel Mother of Dragons to have attached character participate in the challenge on your side.",
+            "deckLimit": 3,
+            "illustrator": "David Auden Nash"
+        },
+        {
+            "code": "04095",
+            "type": "character",
+            "name": "Myrcella Baratheon",
+            "octgnId": "6637367f-a86e-47b3-a7d7-fdd0d56708f0",
+            "quantity": 3,
+            "unique": true,
+            "faction": "martell",
+            "loyal": false,
+            "cost": 4,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 3,
+            "traits": [
+                "Lady"
+            ],
+            "text": "While there are no <i>King</i> characters in play, Myrcella Baratheon gains renown and does not kneel when declared as a defender in a [power] challenge.",
+            "flavor": "The girl never wept. Young as she was, Myrcella Baratheon was a princess born.",
+            "deckLimit": 3,
+            "illustrator": "JB Casacop"
+        },
+        {
+            "code": "04096",
+            "type": "location",
+            "name": "The Prince's Pass",
+            "octgnId": "9de647d8-4da4-493f-aedb-bd06b927099f",
+            "quantity": 3,
+            "unique": true,
+            "faction": "martell",
+            "loyal": true,
+            "cost": 2,
+            "traits": [
+                "Dorne"
+            ],
+            "text": "<b>Reaction:</b> After you lose a challenge as the defending player, kneel The Prince's Pass to choose an attacking character. Until the end of the phase, that character loses a challenge icon of your choice. Then, if it has no challenge icons, you may sacrifice The Prince's Pass to discard it from play.",
+            "deckLimit": 3,
+            "illustrator": "Jim Brady"
+        },
+        {
+            "code": "04097",
+            "type": "character",
+            "name": "Silent Sisters",
+            "octgnId": "ab132452-34e4-4bd7-801a-8a019ca0861e",
+            "quantity": 3,
+            "unique": false,
+            "faction": "neutral",
+            "cost": 3,
+            "icons": {
+                "military": false,
+                "intrigue": true,
+                "power": true
+            },
+            "strength": 1,
+            "traits": [
+                "Ally",
+                "The Seven"
+            ],
+            "text": "Silent Sisters gets +1 STR for each character in your dead pile.",
+            "flavor": "The silent sisters prepared men for the grave, and it was ill fortune to look on the face of death.",
+            "deckLimit": 3,
+            "illustrator": "Tristan Denecke"
+        },
+        {
+            "code": "04098",
+            "type": "location",
+            "name": "The Frostfangs",
+            "octgnId": "1319425c-e0b8-49b3-b2da-fac0ee27c7a7",
+            "quantity": 3,
+            "unique": false,
+            "faction": "neutral",
+            "cost": 2,
+            "traits": [
+                "The North"
+            ],
+            "text": "<b>Reaction:</b> After The Frostfangs enters play, give control of it to an opponent.\n-1 Reserve.",
+            "flavor": "The Frostfangs have a cruel bite, even in summer...",
+            "deckLimit": 3,
+            "illustrator": "Sergey Glushakov"
+        },
+        {
+            "code": "04099",
+            "type": "event",
+            "name": "Quiet as a Shadow",
+            "octgnId": "96501599-1ed1-4c58-9730-f025fdb1db0e",
+            "quantity": 3,
+            "faction": "neutral",
+            "cost": 0,
+            "traits": [],
+            "text": "<b>Action:</b> Choose a unique character with printed cost 3 or lower. Until the end of the phase, that character gains stealth.",
+            "deckLimit": 3,
+            "illustrator": "Cassandre Bolan"
+        },
+        {
+            "code": "04100",
+            "type": "plot",
+            "name": "Ghosts of Harrenhal",
+            "octgnId": "acd6cfc8-f2aa-4b08-baf1-aad44a7c56ad",
+            "quantity": 3,
+            "faction": "neutral",
+            "plotStats": {
+                "income": 2,
+                "initiative": 5,
+                "claim": 1,
+                "reserve": 5
+            },
+            "traits": [
+                "Omen"
+            ],
+            "text": "<b>When Revealed:</b> Put the top character in each player's dead pile into play.",
+            "deckLimit": 2,
+            "illustrator": "Nikolas Hagialas"
+        }
+    ]
+}
