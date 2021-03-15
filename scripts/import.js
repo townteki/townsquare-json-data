@@ -1,18 +1,33 @@
+/* eslint-disable*/
 const fs = require('fs');
 const path = require('path');
-const ThronesDbCardData = require('../src/ThronesDbCardData.js');
-const ThronesDbToThronetekiConverter = require('../src/ThronesDbToThronetekiConverter.js');
+const request = require('request');
+const DtDbCardWriter = require('../src/DtDbCardWriter.js');
 
-let importDir = path.join(process.cwd(), process.argv[2]);
-let thronesDbData = new ThronesDbCardData(importDir);
-let converter = new ThronesDbToThronetekiConverter();
-let convertedPacks = converter.convert(thronesDbData.packs);
-
-let packDir = path.join(process.cwd(), 'packs');
+var apiUrl = 'http://dtdb.co/api/';
+var packDir = path.join(process.cwd(), 'packs');
+var writer = new DtDbCardWriter(packDir);
 if(!fs.existsSync(packDir)) {
     fs.mkdirSync(packDir);
 }
 
-for(let pack of convertedPacks) {
-    fs.writeFileSync(path.join(packDir, pack.code + '.json'), JSON.stringify(pack, null, 4));
+loadPacks().then(packs => {
+    for(let pack of packs) {
+        writer.writeCardData(pack);
+    }
+	fs.writeFile('dtr-packs.json', JSON.stringify(packs), function() {
+		console.info(packs.length + ' packs fetched');
+	});
+});
+
+
+function loadPacks() {
+	return new Promise((resolve, reject) => {
+		request.get(apiUrl + 'sets', { gzip: true }, function(error, res, body) {
+			if(error) {
+				return reject(error);
+			}
+			resolve(JSON.parse(body));
+		});
+	});
 }
