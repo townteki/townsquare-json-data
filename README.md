@@ -1,3 +1,3 @@
 # townsquare-json-data
 
-Fork from the throneteki-json-data. Work in progress. Script not used by the Townsquare, it is here only because it is prerequisite.
+This repository contains the game data retrieved from [DTDB](https://dtdb.co).
