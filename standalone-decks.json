@@ -582,238 +582,238 @@
 			 "card":{
 				"code":"01010"
 			 },
-			 "count":"2",
+			 "count":2,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01045"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":1
 		  },
 		  {
 			 "card":{
 				"code":"01053"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01054"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01014"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01013"
 			 },
-			 "count":"2",
+			 "count":2,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01011"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01005"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":1
 		  },
 		  {
 			 "card":{
 				"code":"01048"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":1
 		  },
 		  {
 			 "card":{
 				"code":"01049"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":1
 		  },
 		  {
 			 "card":{
 				"code":"01012"
 			 },
-			 "count":"2",
+			 "count":2,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01071"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01073"
 			 },
-			 "count":"2",
+			 "count":2,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01077"
 			 },
-			 "count":"2",
+			 "count":2,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01075"
 			 },
-			 "count":"2",
+			 "count":2,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01072"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01079"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01078"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01074"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01076"
 			 },
-			 "count":"2",
+			 "count":2,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01097"
 			 },
-			 "count":"2",
+			 "count":2,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01101"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01103"
 			 },
-			 "count":"4",
+			 "count":4,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01102"
 			 },
-			 "count":"4",
+			 "count":4,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01100"
 			 },
-			 "count":"2",
+			 "count":2,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01135"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01136"
 			 },
-			 "count":"2",
+			 "count":2,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01131"
 			 },
-			 "count":"3",
+			 "count":3,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01139"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01133"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01140"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01134"
 			 },
-			 "count":"3",
+			 "count":3,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01145"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01144"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":0
 		  }
 	   ],
@@ -835,245 +835,245 @@
 			 "card":{
 				"code":"01050"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01045"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":1
 		  },
 		  {
 			 "card":{
 				"code":"01052"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01027"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":1
 		  },
 		  {
 			 "card":{
 				"code":"01032"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01025"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":1
 		  },
 		  {
 			 "card":{
 				"code":"01028"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01031"
 			 },
-			 "count":"2",
+			 "count":2,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01029"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01030"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01033"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01051"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01049"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":1
 		  },
 		  {
 			 "card":{
 				"code":"01067"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01071"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01073"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01068"
 			 },
-			 "count":"2",
+			 "count":2,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01069"
 			 },
-			 "count":"2",
+			 "count":2,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01077"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01072"
 			 },
-			 "count":"2",
+			 "count":2,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01070"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01079"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01080"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01074"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01076"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01089"
 			 },
-			 "count":"3",
+			 "count":3,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01091"
 			 },
-			 "count":"3",
+			 "count":3,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01094"
 			 },
-			 "count":"4",
+			 "count":4,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01129"
 			 },
-			 "count":"4",
+			 "count":4,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01124"
 			 },
-			 "count":"2",
+			 "count":2,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01127"
 			 },
-			 "count":"4",
+			 "count":4,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01125"
 			 },
-			 "count":"2",
+			 "count":2,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01134"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01145"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":0
 		  },
 		  {
 			 "card":{
 				"code":"01144"
 			 },
-			 "count":"1",
+			 "count":1,
 			 "starting":0
 		  }
 	   ],

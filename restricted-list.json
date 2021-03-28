@@ -1,7 +1,19 @@
 [
     {
-        "version": "1.0",
-        "date": "2016-10-10",
-        "bannedCards": []
+        "version": "0.8",
+        "issuer": "Compendium",
+        "cardSet": "original",
+        "code": "cmpd0.8",
+        "date": "2018-07-06",
+        "formats": [
+            {
+                "name": "original",
+                "restricted": []
+            }
+        ],
+        "bannedCards": [
+            "11001",
+            "17020"
+        ]
     }
 ]
