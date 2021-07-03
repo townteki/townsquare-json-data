@@ -1,13 +1,14 @@
 [
     {
-        "version": "0.8",
+        "version": "1.9.2",
         "issuer": "Compendium",
         "cardSet": "original",
-        "code": "cmpd0.8",
-        "date": "2018-07-06",
+        "code": "cmpd1.9.2",
+        "date": "2019-12-18",
         "formats": [
             {
-                "name": "original",
+                "name": "default",
+				"restrictedFrom": "23056",
                 "restricted": []
             }
         ],
@@ -15,5 +16,20 @@
             "11001",
             "17020"
         ]
+    },
+    {
+        "version": "1.0.0",
+        "issuer": "PBE",
+        "cardSet": "new",
+        "code": "pt.new1.0.0",
+        "date": "2021-06-30",
+        "formats": [
+            {
+                "name": "default",
+				"restrictedUpTo": "19001",
+                "restricted": []
+            }
+        ],
+        "bannedCards": []
     }
 ]
