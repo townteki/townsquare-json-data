@@ -9,6 +9,7 @@
             {
                 "name": "default",
 				"restrictedFrom": "23056",
+                "restrictedExceptions": [],
                 "restricted": []
             }
         ],
@@ -27,6 +28,10 @@
             {
                 "name": "default",
 				"restrictedUpTo": "19001",
+                "restrictedExceptions": [
+                    "01144",
+                    "01145"
+                ],
                 "restricted": []
             }
         ],
