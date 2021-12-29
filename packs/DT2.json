@@ -1,4 +1,4 @@
-[
+{
 	"name": "Weird West Edition",
 	"code": "DT2",
 	"number": 1,
@@ -6,7 +6,7 @@
 	"available": "2021-12-25",
 	"known": 261,
 	"total": 261,
-	"url": "https://dtdb.co/en/set/DT2"
+	"url": "https://dtdb.co/en/set/DT2",
 	"cards": [
 		{
 			"last-modified": "2021-12-26T17:48:37+01:00",
@@ -8622,4 +8622,4 @@
 			"imagesrc": "/web/bundles/dtdbcards/images/cards/en/24261.jpg"
 		}
     ]
-]
+}
