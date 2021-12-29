@@ -1,1 +1,251 @@
-[{"name":"Promos","code":"alt","number":1,"cyclenumber":0,"available":"","known":64,"total":24,"url":"https://dtdb.co/en/set/alt"},{"name":"Base Set","code":"DTR","number":1,"cyclenumber":1,"available":"2014-09-15","known":146,"total":146,"url":"https://dtdb.co/en/set/DTR"},{"name":"New Town, New Rules","code":"NTNR","number":1,"cyclenumber":2,"available":"2014-11-17","known":21,"total":21,"url":"https://dtdb.co/en/set/NTNR"},{"name":"Double Dealin'","code":"DD","number":2,"cyclenumber":2,"available":"2015-01-05","known":21,"total":21,"url":"https://dtdb.co/en/set/DD"},{"name":"Election Day Slaughter","code":"EDS","number":3,"cyclenumber":2,"available":"2015-02-16","known":21,"total":21,"url":"https://dtdb.co/en/set/EDS"},{"name":"Faith and Fear","code":"FF","number":1,"cyclenumber":3,"available":"2015-04-06","known":40,"total":40,"url":"https://dtdb.co/en/set/FF"},{"name":"Frontier Justice","code":"FJ","number":1,"cyclenumber":4,"available":"2015-05-18","known":21,"total":21,"url":"https://dtdb.co/en/set/FJ"},{"name":"No Turning Back","code":"NTB","number":2,"cyclenumber":4,"available":"2015-06-29","known":21,"total":21,"url":"https://dtdb.co/en/set/NTB"},{"name":"Nightmare at Noon","code":"NN","number":3,"cyclenumber":4,"available":"2015-08-03","known":21,"total":21,"url":"https://dtdb.co/en/set/NN"},{"name":"Immovable Object, Unstoppable Force","code":"IOUF","number":1,"cyclenumber":5,"available":"2015-09-07","known":42,"total":42,"url":"https://dtdb.co/en/set/IOUF"},{"name":"The Light Shineth","code":"TLS","number":1,"cyclenumber":6,"available":"2015-10-05","known":41,"total":41,"url":"https://dtdb.co/en/set/TLS"},{"name":"Dirty Deeds","code":"DDeeds","number":1,"cyclenumber":7,"available":"2015-11-16","known":23,"total":23,"url":"https://dtdb.co/en/set/DDeeds"},{"name":"Foul Play","code":"FP","number":2,"cyclenumber":7,"available":"2015-12-28","known":21,"total":21,"url":"https://dtdb.co/en/set/FP"},{"name":"Bad Medicine","code":"BadM","number":3,"cyclenumber":7,"available":"2016-02-08","known":21,"total":21,"url":"https://dtdb.co/en/set/BadM"},{"name":"Ghost Town","code":"GT","number":1,"cyclenumber":8,"available":"2016-03-28","known":41,"total":41,"url":"https://dtdb.co/en/set/GT"},{"name":"The Curtain Rises","code":"TCR","number":1,"cyclenumber":9,"available":"2016-05-23","known":21,"total":21,"url":"https://dtdb.co/en/set/TCR"},{"name":"A Grand Entrance","code":"AGE","number":2,"cyclenumber":9,"available":"2016-07-05","known":21,"total":21,"url":"https://dtdb.co/en/set/AGE"},{"name":"The Showstopper","code":"TSs","number":3,"cyclenumber":9,"available":"2016-08-15","known":21,"total":21,"url":"https://dtdb.co/en/set/TSs"},{"name":"Blood Moon Rising","code":"BMR","number":1,"cyclenumber":10,"available":"2016-10-10","known":42,"total":42,"url":"https://dtdb.co/en/set/BMR"},{"name":"There Comes a Reckoning","code":"TCaR","number":1,"cyclenumber":11,"available":"2017-10-21","known":45,"total":45,"url":"https://dtdb.co/en/set/TCaR"},{"name":"Too Tough to Die","code":"2T2D","number":1,"cyclenumber":12,"available":"2018-10-01","known":56,"total":56,"url":"https://dtdb.co/en/set/2T2D"},{"name":"Out for Blood","code":"O4B","number":2,"cyclenumber":12,"available":"2019-05-31","known":56,"total":56,"url":"https://dtdb.co/en/set/O4B"},{"name":"Hell's Comin' With Me","code":"HCWM","number":3,"cyclenumber":12,"available":"2020-03-01","known":56,"total":56,"url":"https://dtdb.co/en/set/HCWM"},{"name":"Welcome to Deadwood","code":"W2D","number":24,"cyclenumber":13,"available":"2021-01-01","known":56,"total":56,"url":"https://dtdb.co/en/set/W2D"}]
+[
+	{
+		"name": "Promos",
+		"code": "alt",
+		"number": 1,
+		"cyclenumber": 0,
+		"available": "",
+		"known": 64,
+		"total": 24,
+		"url": "https://dtdb.co/en/set/alt"
+	},
+	{
+		"name": "Base Set",
+		"code": "DTR",
+		"number": 1,
+		"cyclenumber": 1,
+		"available": "2014-09-15",
+		"known": 146,
+		"total": 146,
+		"url": "https://dtdb.co/en/set/DTR"
+	},
+	{
+		"name": "New Town, New Rules",
+		"code": "NTNR",
+		"number": 1,
+		"cyclenumber": 2,
+		"available": "2014-11-17",
+		"known": 21,
+		"total": 21,
+		"url": "https://dtdb.co/en/set/NTNR"
+	},
+	{
+		"name": "Double Dealin'",
+		"code": "DD",
+		"number": 2,
+		"cyclenumber": 2,
+		"available": "2015-01-05",
+		"known": 21,
+		"total": 21,
+		"url": "https://dtdb.co/en/set/DD"
+	},
+	{
+		"name": "Election Day Slaughter",
+		"code": "EDS",
+		"number": 3,
+		"cyclenumber": 2,
+		"available": "2015-02-16",
+		"known": 21,
+		"total": 21,
+		"url": "https://dtdb.co/en/set/EDS"
+	},
+	{
+		"name": "Faith and Fear",
+		"code": "FF",
+		"number": 1,
+		"cyclenumber": 3,
+		"available": "2015-04-06",
+		"known": 40,
+		"total": 40,
+		"url": "https://dtdb.co/en/set/FF"
+	},
+	{
+		"name": "Frontier Justice",
+		"code": "FJ",
+		"number": 1,
+		"cyclenumber": 4,
+		"available": "2015-05-18",
+		"known": 21,
+		"total": 21,
+		"url": "https://dtdb.co/en/set/FJ"
+	},
+	{
+		"name": "No Turning Back",
+		"code": "NTB",
+		"number": 2,
+		"cyclenumber": 4,
+		"available": "2015-06-29",
+		"known": 21,
+		"total": 21,
+		"url": "https://dtdb.co/en/set/NTB"
+	},
+	{
+		"name": "Nightmare at Noon",
+		"code": "NN",
+		"number": 3,
+		"cyclenumber": 4,
+		"available": "2015-08-03",
+		"known": 21,
+		"total": 21,
+		"url": "https://dtdb.co/en/set/NN"
+	},
+	{
+		"name": "Immovable Object, Unstoppable Force",
+		"code": "IOUF",
+		"number": 1,
+		"cyclenumber": 5,
+		"available": "2015-09-07",
+		"known": 42,
+		"total": 42,
+		"url": "https://dtdb.co/en/set/IOUF"
+	},
+	{
+		"name": "The Light Shineth",
+		"code": "TLS",
+		"number": 1,
+		"cyclenumber": 6,
+		"available": "2015-10-05",
+		"known": 41,
+		"total": 41,
+		"url": "https://dtdb.co/en/set/TLS"
+	},
+	{
+		"name": "Dirty Deeds",
+		"code": "DDeeds",
+		"number": 1,
+		"cyclenumber": 7,
+		"available": "2015-11-16",
+		"known": 23,
+		"total": 23,
+		"url": "https://dtdb.co/en/set/DDeeds"
+	},
+	{
+		"name": "Foul Play",
+		"code": "FP",
+		"number": 2,
+		"cyclenumber": 7,
+		"available": "2015-12-28",
+		"known": 21,
+		"total": 21,
+		"url": "https://dtdb.co/en/set/FP"
+	},
+	{
+		"name": "Bad Medicine",
+		"code": "BadM",
+		"number": 3,
+		"cyclenumber": 7,
+		"available": "2016-02-08",
+		"known": 21,
+		"total": 21,
+		"url": "https://dtdb.co/en/set/BadM"
+	},
+	{
+		"name": "Ghost Town",
+		"code": "GT",
+		"number": 1,
+		"cyclenumber": 8,
+		"available": "2016-03-28",
+		"known": 41,
+		"total": 41,
+		"url": "https://dtdb.co/en/set/GT"
+	},
+	{
+		"name": "The Curtain Rises",
+		"code": "TCR",
+		"number": 1,
+		"cyclenumber": 9,
+		"available": "2016-05-23",
+		"known": 21,
+		"total": 21,
+		"url": "https://dtdb.co/en/set/TCR"
+	},
+	{
+		"name": "A Grand Entrance",
+		"code": "AGE",
+		"number": 2,
+		"cyclenumber": 9,
+		"available": "2016-07-05",
+		"known": 21,
+		"total": 21,
+		"url": "https://dtdb.co/en/set/AGE"
+	},
+	{
+		"name": "The Showstopper",
+		"code": "TSs",
+		"number": 3,
+		"cyclenumber": 9,
+		"available": "2016-08-15",
+		"known": 21,
+		"total": 21,
+		"url": "https://dtdb.co/en/set/TSs"
+	},
+	{
+		"name": "Blood Moon Rising",
+		"code": "BMR",
+		"number": 1,
+		"cyclenumber": 10,
+		"available": "2016-10-10",
+		"known": 42,
+		"total": 42,
+		"url": "https://dtdb.co/en/set/BMR"
+	},
+	{
+		"name": "There Comes a Reckoning",
+		"code": "TCaR",
+		"number": 1,
+		"cyclenumber": 11,
+		"available": "2017-10-21",
+		"known": 45,
+		"total": 45,
+		"url": "https://dtdb.co/en/set/TCaR"
+	},
+	{
+		"name": "Too Tough to Die",
+		"code": "2T2D",
+		"number": 1,
+		"cyclenumber": 12,
+		"available": "2018-10-01",
+		"known": 56,
+		"total": 56,
+		"url": "https://dtdb.co/en/set/2T2D"
+	},
+	{
+		"name": "Out for Blood",
+		"code": "O4B",
+		"number": 2,
+		"cyclenumber": 12,
+		"available": "2019-05-31",
+		"known": 56,
+		"total": 56,
+		"url": "https://dtdb.co/en/set/O4B"
+	},
+	{
+		"name": "Hell's Comin' With Me",
+		"code": "HCWM",
+		"number": 3,
+		"cyclenumber": 12,
+		"available": "2020-03-01",
+		"known": 56,
+		"total": 56,
+		"url": "https://dtdb.co/en/set/HCWM"
+	},
+	{
+		"name": "Welcome to Deadwood",
+		"code": "W2D",
+		"number": 1,
+		"cyclenumber": 13,
+		"available": "2021-01-01",
+		"known": 56,
+		"total": 56,
+		"url": "https://dtdb.co/en/set/W2D"
+	},{
+		"name": "Weird West Edition",
+		"code": "DT2",
+		"number": 1,
+		"cyclenumber": 14,
+		"available": "2021-12-25",
+		"known": 261,
+		"total": 261,
+		"url": "https://dtdb.co/en/set/DT2"
+	}
+]

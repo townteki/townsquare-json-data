@@ -1,7 +1,7 @@
 [
     {
         "version": "1.9.2",
-        "issuer": "Compendium",
+        "issuer": "Old Timer",
         "cardSet": "original",
         "code": "cmpd1.9.2",
         "date": "2019-12-18",
@@ -19,11 +19,31 @@
         ]
     },
     {
+        "version": "1.9.3",
+        "issuer": "Old Timer",
+        "cardSet": "original",
+        "code": "cmpd1.9.3",
+        "date": "2021-12-25",
+        "formats": [
+            {
+                "name": "default",
+				"restrictedFrom": "23056",
+                "restrictedExceptions": [],
+                "restricted": []
+            }
+        ],
+        "bannedCards": [
+            "11001",
+            "17020",
+            "19028"
+        ]
+    },
+    {
         "version": "1.0.0",
-        "issuer": "PBE",
+        "issuer": "Weird West Edition",
         "cardSet": "new",
-        "code": "pt.new1.0.0",
-        "date": "2021-06-30",
+        "code": "wwe1.0.0",
+        "date": "2021-12-25",
         "formats": [
             {
                 "name": "default",
@@ -35,6 +55,8 @@
                 "restricted": []
             }
         ],
-        "bannedCards": []
+        "bannedCards": [
+            "19028"
+        ]
     }
 ]
