@@ -3132,7 +3132,7 @@
 			"cyclenumber": 14,
 			"shooter": "Stud",
 			"rank": 5,
-			"upkeep": null,
+			"upkeep": 1,
 			"production": null,
 			"bullets": 1,
 			"influence": 1,
