@@ -1081,280 +1081,1669 @@
 	   "standaloneDeckId":"MCCILtP"
 	},
 	{
-		"name":"Law Dogs Solo",
+		"name": "Law Dogs Weird West Edition Gunfighter",
 		"outfit": {
-			"code":"24009",
-			"title":"Law Dogs",
-			"gang_code":"lawdogs",
-			"pack_code":"DT2",
-			"type_code":"outfit",
-			"type":"Outfit",
-			"quantity":1,
-			"keywords":""
+			"code": "24009",
+			"title": "Law Dogs",
+			"gang_code": "lawdogs",
+			"pack_code": "DT2"
 		},
-		"legend":null,
-		"standaloneDeckId":"LDSolo",
-		"drawCards":[
+		"legend": null,
+		"standaloneDeckId":"LDGunFSolo",
+		"drawCards": [
+			{
+				"count": 1,
+				"card": {
+					"code": "24071"
+				},
+				"starting": 1
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24015"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24077"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24045"
+				},
+				"starting": 0
+			},
 			{
 				"count": 2,
-				"card":{
-					"code":"24071"
+				"card": {
+					"code": "24098"
 				},
-				"starting":0
+				"starting": 0
 			},
 			{
-				"count":1,
-				"card":{
-					"code":"24075"
+				"count": 2,
+				"card": {
+					"code": "24070"
 				},
-				"starting":1
+				"starting": 0
 			},
 			{
-				"count":1,
-				"card":{
-					"code":"24070"
+				"count": 1,
+				"card": {
+					"code": "24076"
 				},
-				"starting":0
+				"starting": 1
 			},
 			{
-				"count":1,
-				"card":{
-					"code":"24076"
+				"count": 2,
+				"card": {
+					"code": "24073"
 				},
-				"starting":1
+				"starting": 0
 			},
 			{
-				"count":2,
-				"card":{
-					"code":"24073"
+				"count": 1,
+				"card": {
+					"code": "24081"
 				},
-				"starting":0
+				"starting": 0
 			},
 			{
-				"count":1,
-				"card":{
-					"code":"24066"
+				"count": 1,
+				"card": {
+					"code": "24066"
 				},
-				"starting":1
+				"starting": 1
 			},
 			{
-				"count":1,
-				"card":{
-					"code":"24093"
+				"count": 1,
+				"card": {
+					"code": "24093"
 				},
-				"starting":0
+				"starting": 0
 			},
 			{
-				"count":1,
-				"card":{
-					"code":"24065"
+				"count": 1,
+				"card": {
+					"code": "24092"
 				},
-				"starting":1
+				"starting": 1
 			},
 			{
-				"count":2,
-				"card":{
-					"code":"24098"
+				"count": 1,
+				"card": {
+					"code": "24067"
 				},
-				"starting":0
+				"starting": 1
 			},
 			{
-				"count":1,
-				"card":{
-					"code":"24092"
+				"count": 1,
+				"card": {
+					"code": "24125"
 				},
-				"starting":1
+				"starting": 0
 			},
 			{
-				"count":2,
-				"card":{
-					"code":"24067"
+				"count": 1,
+				"card": {
+					"code": "24115"
 				},
-				"starting":0
+				"starting": 0
 			},
 			{
-				"count":1,
-				"card":{
-					"code":"24096"
+				"count": 1,
+				"card": {
+					"code": "24110"
 				},
-				"starting":0
+				"starting": 0
 			},
 			{
-				"count":1,
-				"card":{
-					"code":"24125"
+				"count": 1,
+				"card": {
+					"code": "24119"
 				},
-				"starting":0
+				"starting": 0
 			},
 			{
-				"count":1,
-				"card":{
-					"code":"24110"
+				"count": 1,
+				"card": {
+					"code": "24120"
 				},
-				"starting":0
+				"starting": 0
 			},
 			{
-				"count":1,
-				"card":{
-					"code":"24119"
+				"count": 1,
+				"card": {
+					"code": "24121"
 				},
-				"starting":0
+				"starting": 0
 			},
 			{
-				"count":1,
-				"card":{
-					"code":"24120"
+				"count": 1,
+				"card": {
+					"code": "24127"
 				},
-				"starting":0
+				"starting": 0
 			},
 			{
-				"count":2,
-				"card":{
-					"code":"24121"
+				"count": 1,
+				"card": {
+					"code": "24141"
 				},
-				"starting":0
+				"starting": 0
 			},
 			{
-				"count":1,
-				"card":{
-					"code":"24127"
+				"count": 1,
+				"card": {
+					"code": "24118"
 				},
-				"starting":0
+				"starting": 0
 			},
 			{
-				"count":2,
-				"card":{
-					"code":"24126"
+				"count": 2,
+				"card": {
+					"code": "24126"
 				},
-				"starting":0
+				"starting": 0
 			},
 			{
-				"count":1,
-				"card":{
-					"code":"24111"
+				"count": 1,
+				"card": {
+					"code": "24111"
 				},
-				"starting":0
+				"starting": 0
 			},
 			{
-				"count":2,
-				"card":{
-					"code":"24112"
+				"count": 2,
+				"card": {
+					"code": "24112"
 				},
-				"starting":0
+				"starting": 0
 			},
 			{
-				"count":2,
-				"card":{
-					"code":"24149"
+				"count": 2,
+				"card": {
+					"code": "24149"
 				},
-				"starting":0
+				"starting": 0
 			},
 			{
-				"count":2,
-				"card":{
-					"code":"24170"
+				"count": 2,
+				"card": {
+					"code": "24170"
 				},
-				"starting":0
+				"starting": 0
 			},
 			{
-				"count":2,
-				"card":{
-					"code":"24165"
+				"count": 2,
+				"card": {
+					"code": "24166"
 				},
-				"starting":0
+				"starting": 0
 			},
 			{
-				"count":2,
-				"card":{
-					"code":"24166"
+				"count": 2,
+				"card": {
+					"code": "24158"
 				},
-				"starting":0
+				"starting": 0
 			},
 			{
-				"count":2,
-				"card":{
-					"code":"24158"
+				"count": 2,
+				"card": {
+					"code": "24151"
 				},
-				"starting":0
+				"starting": 0
 			},
 			{
-				"count":1,
-				"card":{
-					"code":"24151"
+				"count": 2,
+				"card": {
+					"code": "24238"
 				},
-				"starting":0
+				"starting": 0
 			},
 			{
-				"count":1,
-				"card":{
-					"code":"24160"
+				"count": 2,
+				"card": {
+					"code": "24230"
 				},
-				"starting":0
+				"starting": 0
 			},
 			{
-				"count":2,
-				"card":{
-					"code":"24238"
+				"count": 2,
+				"card": {
+					"code": "24224"
 				},
-				"starting":0
+				"starting": 0
 			},
 			{
-				"count":1,
-				"card":{
-					"code":"24230"
+				"count": 2,
+				"card": {
+					"code": "24231"
 				},
-				"starting":0
+				"starting": 0
 			},
 			{
-				"count":2,
-				"card":{
-					"code":"24224"
+				"count": 2,
+				"card": {
+					"code": "24221"
 				},
-				"starting":0
+				"starting": 0
 			},
 			{
-				"count":2,
-				"card":{
-					"code":"24231"
+				"count": 2,
+				"card": {
+					"code": "24220"
 				},
-				"starting":0
+				"starting": 0
 			},
 			{
-				"count":1,
-				"card":{
-					"code":"24239"
+				"count": 1,
+				"card": {
+					"code": "24258"
 				},
-				"starting":0
+				"starting": 0
 			},
 			{
-				"count":2,
-				"card":{
-					"code":"24221"
+				"count": 1,
+				"card": {
+					"code": "24259"
 				},
-				"starting":0
-			},
-			{
-				"count":2,
-				"card":{
-					"code":"24220"
-				},
-				"starting":0
-			},
-			{
-				"count":1,
-				"card":{
-					"code":"24258"
-				},
-				"starting":0
-			},
-			{
-				"count":1,
-				"card":{
-					"code":"24259"
-				},
-				"starting":0
+				"starting": 0
 			}
 		],
-		"lastUpdated":"2022-01-06T08:00:00.000+00:00"
+		"lastUpdated": "2022-09-01T08:00:00.000+00:00"
+	},
+	{
+		"name": "Fearmongers Weird West Edition Gunfighter",
+		"outfit": {
+			"code": "24005",
+			"title": "Encroaching Darkness",
+			"gang_code": "fearmongers",
+			"pack_code": "DT2"
+		},
+		"legend": null,
+		"standaloneDeckId":"FMGunFSolo",
+		"drawCards": [
+			{
+				"count": 1,
+				"card": {
+					"code": "24046"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24045"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24099"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24103"
+				},
+				"starting": 1
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24039"
+				},
+				"starting": 1
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24016"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24040"
+				},
+				"starting": 1
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24094"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24047"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24042"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24056"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24043"
+				},
+				"starting": 1
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24091"
+				},
+				"starting": 1
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24096"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24113"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24114"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24115"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24128"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24119"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24120"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24121"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24129"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24130"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24147"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24158"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24178"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24168"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24154"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24169"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24160"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24222"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24230"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24224"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24231"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24242"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24243"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24258"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24259"
+				},
+				"starting": 0
+			}
+		],
+		"lastUpdated": "2022-09-01T08:00:00.000+00:00"
+	},
+	{
+		"name": "First Peoples Weird West Edition Gunfighter",
+		"outfit": {
+			"code": "24008",
+			"title": "The Spiritual Society",
+			"gang_code": "1stpeoples",
+			"pack_code": "DT2"
+		},
+		"legend": null,
+		"standaloneDeckId":"FPGunFSolo",
+		"drawCards": [
+			{
+				"count": 1,
+				"card": {
+					"code": "24052"
+				},
+				"starting": 1
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24101"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24064"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24098"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24058"
+				},
+				"starting": 1
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24059"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24103"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24053"
+				},
+				"starting": 1
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24092"
+				},
+				"starting": 1
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24060"
+				},
+				"starting": 1
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24140"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24125"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24135"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24136"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24129"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24127"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24141"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24130"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24126"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24142"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24173"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24166"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24174"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24180"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24210"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24208"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24206"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24205"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24207"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24255"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24249"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24256"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24242"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24239"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24244"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24258"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24259"
+				},
+				"starting": 0
+			}
+		],
+		"lastUpdated": "2022-09-01T08:00:00.000+00:00"
+	},
+	{
+		"name": "Anarchists Weird West Edition Gunfighter",
+		"outfit": {
+			"code": "24001",
+			"title": "108 Gracious Gifts",
+			"gang_code": "anarchists",
+			"pack_code": "DT2"
+		},
+		"legend": null,
+		"standaloneDeckId":"ANGunFSolo",
+		"drawCards": [
+			{
+				"count": 1,
+				"card": {
+					"code": "24095"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24015"
+				},
+				"starting": 1
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24019"
+				},
+				"starting": 1
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24025"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24081"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24016"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24093"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24014"
+				},
+				"starting": 1
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24094"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24024"
+				},
+				"starting": 1
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24042"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24017"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24020"
+				},
+				"starting": 1
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24113"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24114"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24115"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24110"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24109"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24105"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24111"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24112"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24146"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24149"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24148"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24151"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24154"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24222"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24214"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24245"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24226"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24212"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24229"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24225"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24219"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24217"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24218"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24258"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24259"
+				},
+				"starting": 0
+			}
+		],
+		"lastUpdated": "2022-09-01T08:00:00.000+00:00"
+	},
+	{
+		"name": "Entrepreneurs Weird West Edition Gunfighter",
+		"outfit": {
+			"code": "24004",
+			"title": "Morgan Regulators",
+			"gang_code": "entrepreneurs",
+			"pack_code": "DT2"
+		},
+		"legend": null,
+		"standaloneDeckId":"EntGunFSolo",
+		"drawCards": [
+			{
+				"count": 1,
+				"card": {
+					"code": "24100"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24027"
+				},
+				"starting": 1
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24036"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24028"
+				},
+				"starting": 1
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24101"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24030"
+				},
+				"starting": 1
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24026"
+				},
+				"starting": 1
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24032"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24033"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24035"
+				},
+				"starting": 1
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24037"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24029"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24122"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24125"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24137"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24135"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24136"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24119"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24120"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24121"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24127"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24124"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24173"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24164"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24177"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24166"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24174"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24158"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24160"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24175"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24230"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24231"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24249"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24251"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24242"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24239"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24258"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24259"
+				},
+				"starting": 0
+			}
+		],
+		"lastUpdated": "2022-09-01T08:00:00.000+00:00"
+	},
+	{
+		"name": "Outlaws Weird West Edition Gunfighter",
+		"outfit": {
+			"code": "24012",
+			"title": "The Sloane Gang",
+			"gang_code": "outlaws",
+			"pack_code": "DT2"
+		},
+		"legend": null,
+		"standaloneDeckId":"OLGunFSolo",
+		"drawCards": [
+			{
+				"count": 1,
+				"card": {
+					"code": "24095"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24078"
+				},
+				"starting": 1
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24085"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24086"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24079"
+				},
+				"starting": 1
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24103"
+				},
+				"starting": 1
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24090"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24081"
+				},
+				"starting": 1
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24082"
+				},
+				"starting": 1
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24083"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24094"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24042"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24113"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24122"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24116"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24114"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24115"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24123"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24117"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24118"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24124"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24105"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24145"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24162"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24155"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24156"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24163"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24154"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24222"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24224"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24226"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24235"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24216"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24228"
+				},
+				"starting": 0
+			},
+			{
+				"count": 2,
+				"card": {
+					"code": "24221"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24258"
+				},
+				"starting": 0
+			},
+			{
+				"count": 1,
+				"card": {
+					"code": "24259"
+				},
+				"starting": 0
+			}
+		],
+		"lastUpdated": "2022-09-01T08:00:00.000+00:00"
 	}
 ]
