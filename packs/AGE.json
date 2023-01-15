@@ -247,7 +247,7 @@
             "type_code": "dude",
             "suit": "Spades",
             "keywords": "Transient",
-            "text": "<b>React:</b> After Antoine enters play, search your discard pile for an action card that starts a job and put it into your hand. Discard a card. You may unboot your <img src=\"/web/bundles/dtdbbuilder/images/sloanegang-20.png\" title=\"The Sloane Gang\"> dude at home and give them 2 bounty.",
+            "text": "<b>React:</b> After Antoine enters play, search your discard pile for an action card that starts a job and put it into your hand. Discard a card. You may unboot your <img src=\"/images/sloanegang-20.png\" title=\"The Sloane Gang\"> dude at home and give them 2 bounty.",
             "cost": 3,
             "gang": "Outlaws",
             "gang_code": "outlaws",

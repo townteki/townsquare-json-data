@@ -874,7 +874,7 @@
             "type_code": "dude",
             "suit": "Spades",
             "keywords": "Huckster 2 • Experienced 1",
-            "text": "If your outfit is <img src=\"/web/bundles/dtdbbuilder/images/outlaws-20.png\" title=\"Outlaws\">, Jonah's cost is reduced by the number of different Hexes you control.\r\n\r\nOther wanted dudes in Jonah's posse have +1 bullets.\r\n\r\n<b>Noon/Shootout:</b> Discard an opponent's attached card at this location with cost equal to or less than Jonah's bounty. Raise the bounty of your dude at this location by 1.",
+            "text": "If your outfit is <img src=\"/images/outlaws-20.png\" title=\"Outlaws\">, Jonah's cost is reduced by the number of different Hexes you control.\r\n\r\nOther wanted dudes in Jonah's posse have +1 bullets.\r\n\r\n<b>Noon/Shootout:</b> Discard an opponent's attached card at this location with cost equal to or less than Jonah's bounty. Raise the bounty of your dude at this location by 1.",
             "cost": 9,
             "gang": "Outlaws",
             "gang_code": "outlaws",

@@ -1006,7 +1006,7 @@
             "type_code": "dude",
             "suit": "Spades",
             "keywords": "Abomination • Experienced 1 • Huckster 3",
-            "text": "If your outfit is <img src=\"/web/bundles/dtdbbuilder/images/fourthring-20.png\" title=\"The Fourth Ring\">, Ivor's cost is reduced by 1 <i>(to a minimum of 0)</i> for each Abomination in play and in any Boot Hill.\r\n\r\n<b>React:</b> After Ivor enters play from your hand, play up to two Hexes or Abominations from your Boot Hill. Reduce those cards' cost by 3 each.",
+            "text": "If your outfit is <img src=\"/images/fourthring-20.png\" title=\"The Fourth Ring\">, Ivor's cost is reduced by 1 <i>(to a minimum of 0)</i> for each Abomination in play and in any Boot Hill.\r\n\r\n<b>React:</b> After Ivor enters play from your hand, play up to two Hexes or Abominations from your Boot Hill. Reduce those cards' cost by 3 each.",
             "cost": 9,
             "gang": "Fearmongers",
             "gang_code": "fearmongers",

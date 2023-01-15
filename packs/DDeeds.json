@@ -214,7 +214,7 @@
             "type_code": "dude",
             "suit": "Spades",
             "keywords": "",
-            "text": "If you are a <img src=\"/web/bundles/dtdbbuilder/images/eaglewardens-20.png\" title=\"Eagle Wardens\"> player, Zachary has a bullet bonus equal to the highest influence among your dudes at his location <i>(including himself)</i>.",
+            "text": "If you are a <img src=\"/images/eaglewardens-20.png\" title=\"Eagle Wardens\"> player, Zachary has a bullet bonus equal to the highest influence among your dudes at his location <i>(including himself)</i>.",
             "cost": 4,
             "gang": "First Peoples",
             "gang_code": "1stpeoples",
