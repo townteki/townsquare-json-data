@@ -39,7 +39,7 @@
             "octgnid": "2cba8b31-062a-4701-a9a4-76a330681bb7",
             "value": "Spades9",
             "url": "https://dtdb.co/en/card/07001",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/07001.jpg"
+            "imagesrc": "/images/cards/en/07001.jpg"
         },
         {
             "last-modified": "2015-10-02T20:18:01+02:00",
@@ -72,7 +72,7 @@
             "octgnid": "04e204a6-8879-477b-8153-adcda50b1f51",
             "value": "Spades8",
             "url": "https://dtdb.co/en/card/07002",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/07002.jpg"
+            "imagesrc": "/images/cards/en/07002.jpg"
         },
         {
             "last-modified": "2015-10-03T11:56:09+02:00",
@@ -105,7 +105,7 @@
             "octgnid": "799ea10c-9dc3-414e-bd72-c1d9fa662926",
             "value": "Spades12",
             "url": "https://dtdb.co/en/card/07003",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/07003.jpg"
+            "imagesrc": "/images/cards/en/07003.jpg"
         },
         {
             "last-modified": "2015-10-02T20:18:40+02:00",
@@ -138,7 +138,7 @@
             "octgnid": "294a7ce9-af00-46e1-b33c-aab21ebf3b09",
             "value": "Spades9",
             "url": "https://dtdb.co/en/card/07004",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/07004.jpg"
+            "imagesrc": "/images/cards/en/07004.jpg"
         },
         {
             "last-modified": "2015-06-30T07:06:54+02:00",
@@ -171,7 +171,7 @@
             "octgnid": "56fd7d6b-d14a-4b9d-a29c-40102bf4377b",
             "value": "Spades9",
             "url": "https://dtdb.co/en/card/07005",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/07005.jpg"
+            "imagesrc": "/images/cards/en/07005.jpg"
         },
         {
             "last-modified": "2015-10-02T20:20:02+02:00",
@@ -204,7 +204,7 @@
             "octgnid": "fffb2b62-4d83-4b3c-9696-2905477d892f",
             "value": "Spades11",
             "url": "https://dtdb.co/en/card/07006",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/07006.jpg"
+            "imagesrc": "/images/cards/en/07006.jpg"
         },
         {
             "last-modified": "2015-10-02T20:21:10+02:00",
@@ -237,7 +237,7 @@
             "octgnid": "4d2ffa2b-f09d-47ef-845b-d227b060b603",
             "value": "Spades10",
             "url": "https://dtdb.co/en/card/07007",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/07007.jpg"
+            "imagesrc": "/images/cards/en/07007.jpg"
         },
         {
             "last-modified": "2015-10-02T20:21:30+02:00",
@@ -270,7 +270,7 @@
             "octgnid": "9eada35c-a9a5-485f-9513-305661421944",
             "value": "Spades11",
             "url": "https://dtdb.co/en/card/07008",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/07008.jpg"
+            "imagesrc": "/images/cards/en/07008.jpg"
         },
         {
             "last-modified": "2015-10-03T11:56:24+02:00",
@@ -303,7 +303,7 @@
             "octgnid": "c65152fd-434e-4729-ac44-cf61d1affbdc",
             "value": "Spades13",
             "url": "https://dtdb.co/en/card/07009",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/07009.jpg"
+            "imagesrc": "/images/cards/en/07009.jpg"
         },
         {
             "last-modified": "2015-06-12T12:08:28+02:00",
@@ -336,7 +336,7 @@
             "octgnid": "0334ecdd-6da1-47bf-a3d0-b4988bdf8a07",
             "value": "Diams11",
             "url": "https://dtdb.co/en/card/07010",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/07010.jpg"
+            "imagesrc": "/images/cards/en/07010.jpg"
         },
         {
             "last-modified": "2015-10-02T20:22:20+02:00",
@@ -369,7 +369,7 @@
             "octgnid": "5af04c4c-8282-4abf-9e55-a13ace8a998b",
             "value": "Diams13",
             "url": "https://dtdb.co/en/card/07011",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/07011.jpg"
+            "imagesrc": "/images/cards/en/07011.jpg"
         },
         {
             "last-modified": "2015-10-03T11:56:52+02:00",
@@ -402,7 +402,7 @@
             "octgnid": "68bce669-132a-43ca-9727-8de86b3b039c",
             "value": "Hearts1",
             "url": "https://dtdb.co/en/card/07012",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/07012.jpg"
+            "imagesrc": "/images/cards/en/07012.jpg"
         },
         {
             "last-modified": "2015-10-02T20:23:06+02:00",
@@ -435,7 +435,7 @@
             "octgnid": "34970b97-c353-47a5-bf1c-4cdc0351eef5",
             "value": "Hearts9",
             "url": "https://dtdb.co/en/card/07013",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/07013.jpg"
+            "imagesrc": "/images/cards/en/07013.jpg"
         },
         {
             "last-modified": "2015-10-02T20:23:26+02:00",
@@ -468,7 +468,7 @@
             "octgnid": "b756df9e-6c24-4b33-a6f1-ff6b82dd51e5",
             "value": "Hearts10",
             "url": "https://dtdb.co/en/card/07014",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/07014.jpg"
+            "imagesrc": "/images/cards/en/07014.jpg"
         },
         {
             "last-modified": "2015-06-10T14:36:30+02:00",
@@ -501,7 +501,7 @@
             "octgnid": "2950ad4b-c835-415f-a24c-b61c9702c728",
             "value": "Hearts11",
             "url": "https://dtdb.co/en/card/07015",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/07015.jpg"
+            "imagesrc": "/images/cards/en/07015.jpg"
         },
         {
             "last-modified": "2015-10-03T11:57:33+02:00",
@@ -534,7 +534,7 @@
             "octgnid": "03dc1c9f-3b91-4bf6-af64-6bcbdca36839",
             "value": "Hearts12",
             "url": "https://dtdb.co/en/card/07016",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/07016.jpg"
+            "imagesrc": "/images/cards/en/07016.jpg"
         },
         {
             "last-modified": "2015-10-02T20:24:41+02:00",
@@ -567,7 +567,7 @@
             "octgnid": "00867833-050d-4214-bccb-d1e787f15baf",
             "value": "Hearts9",
             "url": "https://dtdb.co/en/card/07017",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/07017.jpg"
+            "imagesrc": "/images/cards/en/07017.jpg"
         },
         {
             "last-modified": "2016-02-23T20:55:02+01:00",
@@ -600,7 +600,7 @@
             "octgnid": "12d7d9e6-cffa-46ef-8ae7-d8fbbeb88e4c",
             "value": "Hearts9",
             "url": "https://dtdb.co/en/card/07018",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/07018.jpg"
+            "imagesrc": "/images/cards/en/07018.jpg"
         },
         {
             "last-modified": "2015-10-02T20:25:14+02:00",
@@ -633,7 +633,7 @@
             "octgnid": "f7d5aaa2-b476-4156-bef1-697cd39d7dd7",
             "value": "Clubs4",
             "url": "https://dtdb.co/en/card/07019",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/07019.jpg"
+            "imagesrc": "/images/cards/en/07019.jpg"
         },
         {
             "last-modified": "2015-10-02T20:25:31+02:00",
@@ -666,7 +666,7 @@
             "octgnid": "0453a270-56fb-4714-b3d7-41129bf4ccd5",
             "value": "Clubs5",
             "url": "https://dtdb.co/en/card/07020",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/07020.jpg"
+            "imagesrc": "/images/cards/en/07020.jpg"
         },
         {
             "last-modified": "2017-11-16T18:40:02+01:00",
@@ -699,7 +699,7 @@
             "octgnid": "b308c49b-6871-4067-a269-9aa7f8917bdc",
             "value": "Clubs12",
             "url": "https://dtdb.co/en/card/07021",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/07021.jpg"
+            "imagesrc": "/images/cards/en/07021.jpg"
         }
     ]
 }
