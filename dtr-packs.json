@@ -238,7 +238,8 @@
 		"known": 56,
 		"total": 56,
 		"url": "https://dtdb.co/en/set/W2D"
-	},{
+	},
+	{
 		"name": "Weird West Edition",
 		"code": "DT2",
 		"number": 1,
@@ -247,5 +248,15 @@
 		"known": 261,
 		"total": 261,
 		"url": "https://dtdb.co/en/set/DT2"
+	},
+	{
+		"name": "Debt of Blood",
+		"code": "DoB",
+		"number": 1,
+		"cyclenumber": 15,
+		"available": "2023-09-01",
+		"known": 56,
+		"total": 56,
+		"url": "https://dtdb.co/en/set/DoB"
 	}
 ]
