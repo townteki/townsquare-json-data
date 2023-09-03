@@ -778,9 +778,18 @@
 			"keywords": "Experienced 1 • Abomination",
 			"text": "While Christine is a member of a posse attempting a job, she is a stud.",
 			"cost": 4,
-			"gang": "Fearmongers",
-			"gang_code": "fearmongers",
-			"gang_letter": "f",
+			"gang": [
+				"Fearmongers",
+				"Outlaws"
+			],
+			"gang_code": [
+				"fearmongers",
+				"outlaws"
+			],
+			"gang_letter": [
+				"f",
+				"o"
+			],
 			"flavor": "\"The law does tend to get in the way of a good hunt.\"\"",
 			"illustrator": "",
 			"number": 24,
