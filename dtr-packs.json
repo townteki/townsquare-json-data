@@ -251,12 +251,12 @@
 	},
 	{
 		"name": "Debt of Blood",
-		"code": "DoB",
+		"code": "DofB",
 		"number": 1,
 		"cyclenumber": 15,
 		"available": "2023-09-01",
 		"known": 56,
 		"total": 56,
-		"url": "https://dtdb.co/en/set/DoB"
+		"url": "https://dtdb.co/en/set/DofB"
 	}
 ]
