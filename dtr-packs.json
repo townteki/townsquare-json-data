@@ -258,5 +258,15 @@
 		"known": 56,
 		"total": 56,
 		"url": "https://dtdb.co/en/set/DofB"
+	},
+	{
+		"name": "Whispers of War",
+		"code": "WoW",
+		"number": 1,
+		"cyclenumber": 24,
+		"available": "2025-03-01",
+		"known": 60,
+		"total": 60,
+		"url": "https://dtdb.co/en/set/WoW"
 	}
 ]
