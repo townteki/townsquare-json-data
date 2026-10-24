@@ -39,7 +39,7 @@
             "octgnid": "8463332e-61fb-4744-b6cb-89fbcec18bdd",
             "value": "Spades7",
             "url": "https://dtdb.co/en/card/14001",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14001.jpg"
+            "imagesrc": "/images/cards/en/14001.jpg"
         },
         {
             "last-modified": "2016-03-28T13:48:29+02:00",
@@ -72,7 +72,7 @@
             "octgnid": "c2d7e814-dddf-4f21-9315-d2d5993da004",
             "value": "Spades10",
             "url": "https://dtdb.co/en/card/14002",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14002.jpg"
+            "imagesrc": "/images/cards/en/14002.jpg"
         },
         {
             "last-modified": "2016-03-28T13:49:52+02:00",
@@ -105,7 +105,7 @@
             "octgnid": "a8b44597-b8b4-4a8a-b077-d6f0495248d7",
             "value": "Spades2",
             "url": "https://dtdb.co/en/card/14003",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14003.jpg"
+            "imagesrc": "/images/cards/en/14003.jpg"
         },
         {
             "last-modified": "2016-03-28T13:51:41+02:00",
@@ -138,7 +138,7 @@
             "octgnid": "f21a80e4-27f0-4c87-a44e-64661765a000",
             "value": "Spades8",
             "url": "https://dtdb.co/en/card/14004",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14004.jpg"
+            "imagesrc": "/images/cards/en/14004.jpg"
         },
         {
             "last-modified": "2016-03-28T13:55:57+02:00",
@@ -171,7 +171,7 @@
             "octgnid": "62a29361-d2d6-4934-ac70-916435475094",
             "value": "Spades7",
             "url": "https://dtdb.co/en/card/14005",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14005.jpg"
+            "imagesrc": "/images/cards/en/14005.jpg"
         },
         {
             "last-modified": "2016-05-12T20:21:35+02:00",
@@ -204,7 +204,7 @@
             "octgnid": "7ab8a00e-d449-42ec-ae60-3dff03151dce",
             "value": "Spades4",
             "url": "https://dtdb.co/en/card/14006",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14006.jpg"
+            "imagesrc": "/images/cards/en/14006.jpg"
         },
         {
             "last-modified": "2016-03-28T14:00:53+02:00",
@@ -214,7 +214,7 @@
             "type_code": "dude",
             "suit": "Spades",
             "keywords": "Experienced 1",
-            "text": "If your outfit is <img src=\"/web/bundles/dtdbbuilder/images/morganco-20.png\" title=\"Morgan Cattle Co.\">, Lula has -1 upkeep per control point you have.\r\nWhenever you gain ghost rock from an ability during High Noon, gain 1 ghost rock.",
+            "text": "If your outfit is <img src=\"/images/morganco-20.png\" title=\"Morgan Cattle Co.\">, Lula has -1 upkeep per control point you have.\r\nWhenever you gain ghost rock from an ability during High Noon, gain 1 ghost rock.",
             "cost": 7,
             "gang": "Entrepreneurs",
             "gang_code": "entrepreneurs",
@@ -237,7 +237,7 @@
             "octgnid": "3c6ad64f-f716-4ee8-80db-f13602745d44",
             "value": "Spades11",
             "url": "https://dtdb.co/en/card/14007",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14007.jpg"
+            "imagesrc": "/images/cards/en/14007.jpg"
         },
         {
             "last-modified": "2016-05-12T20:25:52+02:00",
@@ -270,7 +270,7 @@
             "octgnid": "991495ee-2b58-4e7f-92d0-11ffaca1cff5",
             "value": "Spades6",
             "url": "https://dtdb.co/en/card/14008",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14008.jpg"
+            "imagesrc": "/images/cards/en/14008.jpg"
         },
         {
             "last-modified": "2016-03-28T14:04:04+02:00",
@@ -303,7 +303,7 @@
             "octgnid": "f9f258f4-dd3b-43c8-9081-79939b5b76b0",
             "value": "Spades4",
             "url": "https://dtdb.co/en/card/14009",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14009.jpg"
+            "imagesrc": "/images/cards/en/14009.jpg"
         },
         {
             "last-modified": "2016-03-28T14:05:42+02:00",
@@ -336,7 +336,7 @@
             "octgnid": "6bbd7290-5c98-4378-b581-0c044b96860a",
             "value": "Spades4",
             "url": "https://dtdb.co/en/card/14010",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14010.jpg"
+            "imagesrc": "/images/cards/en/14010.jpg"
         },
         {
             "last-modified": "2016-03-28T14:12:27+02:00",
@@ -369,7 +369,7 @@
             "octgnid": "8bb9b173-38ce-4b99-8874-3197a596b17e",
             "value": "Spades5",
             "url": "https://dtdb.co/en/card/14011",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14011.jpg"
+            "imagesrc": "/images/cards/en/14011.jpg"
         },
         {
             "last-modified": "2016-03-28T14:14:20+02:00",
@@ -402,7 +402,7 @@
             "octgnid": "cde1ec30-fedd-46de-af9b-110856d0f1c7",
             "value": "Spades7",
             "url": "https://dtdb.co/en/card/14012",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14012.jpg"
+            "imagesrc": "/images/cards/en/14012.jpg"
         },
         {
             "last-modified": "2016-03-28T14:15:54+02:00",
@@ -435,7 +435,7 @@
             "octgnid": "22df7ba7-5a3e-45de-b12a-a6c672ad6ccf",
             "value": "Spades10",
             "url": "https://dtdb.co/en/card/14013",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14013.jpg"
+            "imagesrc": "/images/cards/en/14013.jpg"
         },
         {
             "last-modified": "2016-03-28T14:18:21+02:00",
@@ -468,7 +468,7 @@
             "octgnid": "74d2d9ea-bcc7-4c61-b4a1-0a54856501dc",
             "value": "Diams1",
             "url": "https://dtdb.co/en/card/14014",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14014.jpg"
+            "imagesrc": "/images/cards/en/14014.jpg"
         },
         {
             "last-modified": "2016-03-28T14:20:31+02:00",
@@ -478,7 +478,7 @@
             "type_code": "deed",
             "suit": "Diams",
             "keywords": "Ranch • Private • Core",
-            "text": "You may start this deed in play in place of one <img src=\"/web/bundles/dtdbbuilder/images/morganco-20.png\" title=\"Morgan Cattle Co.\"> dude.\r\n<b>Controller React, Boot:</b> Before your dude makes an invention skill test at this deed, reduce its difficulty by 2. If successful, unboot the dude. If the invented Gadget was a Horse or Improvement, this deed gains +1 production permanently.",
+            "text": "You may start this deed in play in place of one <img src=\"/images/morganco-20.png\" title=\"Morgan Cattle Co.\"> dude.\r\n<b>Controller React, Boot:</b> Before your dude makes an invention skill test at this deed, reduce its difficulty by 2. If successful, unboot the dude. If the invented Gadget was a Horse or Improvement, this deed gains +1 production permanently.",
             "cost": 1,
             "gang": "Neutral",
             "gang_code": "neutral",
@@ -501,7 +501,7 @@
             "octgnid": "aacdc6a0-f543-4cc2-8370-b2bec8eccc6a",
             "value": "Diams2",
             "url": "https://dtdb.co/en/card/14015",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14015.jpg"
+            "imagesrc": "/images/cards/en/14015.jpg"
         },
         {
             "last-modified": "2016-03-28T14:22:10+02:00",
@@ -534,7 +534,7 @@
             "octgnid": "98487814-4411-4701-85e6-3c45340679d0",
             "value": "Diams3",
             "url": "https://dtdb.co/en/card/14016",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14016.jpg"
+            "imagesrc": "/images/cards/en/14016.jpg"
         },
         {
             "last-modified": "2016-03-28T14:24:40+02:00",
@@ -567,7 +567,7 @@
             "octgnid": "e734385a-eb43-4dd0-931d-16b99750de17",
             "value": "Diams4",
             "url": "https://dtdb.co/en/card/14017",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14017.jpg"
+            "imagesrc": "/images/cards/en/14017.jpg"
         },
         {
             "last-modified": "2016-03-28T14:26:16+02:00",
@@ -577,7 +577,7 @@
             "type_code": "deed",
             "suit": "Diams",
             "keywords": "Public • Saloon • Core",
-            "text": "You may start this deed in place of one <img src=\"/web/bundles/dtdbbuilder/images/righteousbandits-20.png\" title=\"The 108 Righteous Bandits\"> dude.\r\nWhile you are tied for the lowest ghost rock, you are considered to have less ghost rock than all other players.",
+            "text": "You may start this deed in place of one <img src=\"/images/righteousbandits-20.png\" title=\"The 108 Righteous Bandits\"> dude.\r\nWhile you are tied for the lowest ghost rock, you are considered to have less ghost rock than all other players.",
             "cost": 3,
             "gang": "Neutral",
             "gang_code": "neutral",
@@ -600,7 +600,7 @@
             "octgnid": "97babd64-ce97-4996-a4a5-f6782660c895",
             "value": "Diams8",
             "url": "https://dtdb.co/en/card/14018",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14018.jpg"
+            "imagesrc": "/images/cards/en/14018.jpg"
         },
         {
             "last-modified": "2016-04-13T14:53:29+02:00",
@@ -633,7 +633,7 @@
             "octgnid": "df42a53c-8fab-4603-9294-f51d4a44e95e",
             "value": "Diams9",
             "url": "https://dtdb.co/en/card/14019",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14019.jpg"
+            "imagesrc": "/images/cards/en/14019.jpg"
         },
         {
             "last-modified": "2016-03-28T14:30:15+02:00",
@@ -666,7 +666,7 @@
             "octgnid": "f7be47f3-b72b-4739-8391-e7d718868b90",
             "value": "Diams10",
             "url": "https://dtdb.co/en/card/14020",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14020.jpg"
+            "imagesrc": "/images/cards/en/14020.jpg"
         },
         {
             "last-modified": "2016-03-28T14:31:22+02:00",
@@ -699,7 +699,7 @@
             "octgnid": "3e3fff09-9401-46d2-ab8e-cfce77ddde58",
             "value": "Diams12",
             "url": "https://dtdb.co/en/card/14021",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14021.jpg"
+            "imagesrc": "/images/cards/en/14021.jpg"
         },
         {
             "last-modified": "2016-03-28T14:32:42+02:00",
@@ -732,7 +732,7 @@
             "octgnid": "e3efb184-9dc0-4c4f-9b07-b7c01c66a424",
             "value": "Hearts3",
             "url": "https://dtdb.co/en/card/14022",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14022.jpg"
+            "imagesrc": "/images/cards/en/14022.jpg"
         },
         {
             "last-modified": "2017-11-08T03:13:43+01:00",
@@ -765,7 +765,7 @@
             "octgnid": "63df2636-a2b4-4470-9b3f-596c2e311dd1",
             "value": "Hearts4",
             "url": "https://dtdb.co/en/card/14023",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14023.jpg"
+            "imagesrc": "/images/cards/en/14023.jpg"
         },
         {
             "last-modified": "2016-03-28T14:35:22+02:00",
@@ -798,7 +798,7 @@
             "octgnid": "4b68dd9b-fb40-4912-8ff6-d7de771861dd",
             "value": "Hearts4",
             "url": "https://dtdb.co/en/card/14024",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14024.jpg"
+            "imagesrc": "/images/cards/en/14024.jpg"
         },
         {
             "last-modified": "2016-03-28T14:37:13+02:00",
@@ -831,7 +831,7 @@
             "octgnid": "54cd83d3-4735-4948-9a49-9570710da531",
             "value": "Hearts6",
             "url": "https://dtdb.co/en/card/14025",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14025.jpg"
+            "imagesrc": "/images/cards/en/14025.jpg"
         },
         {
             "last-modified": "2016-03-28T14:39:12+02:00",
@@ -864,7 +864,7 @@
             "octgnid": "ccc98846-eea5-4568-9726-2f86d9b90896",
             "value": "Hearts9",
             "url": "https://dtdb.co/en/card/14026",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14026.jpg"
+            "imagesrc": "/images/cards/en/14026.jpg"
         },
         {
             "last-modified": "2016-03-28T14:41:27+02:00",
@@ -897,7 +897,7 @@
             "octgnid": "b2371c67-bdd2-4ba6-b236-86a551e0f2c1",
             "value": "Hearts2",
             "url": "https://dtdb.co/en/card/14027",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14027.jpg"
+            "imagesrc": "/images/cards/en/14027.jpg"
         },
         {
             "last-modified": "2016-03-28T14:42:48+02:00",
@@ -930,7 +930,7 @@
             "octgnid": "ed8fda6f-0cee-4d73-9af0-159fbb3db4e0",
             "value": "Hearts2",
             "url": "https://dtdb.co/en/card/14028",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14028.jpg"
+            "imagesrc": "/images/cards/en/14028.jpg"
         },
         {
             "last-modified": "2016-03-28T14:44:06+02:00",
@@ -963,7 +963,7 @@
             "octgnid": "28b4125d-61a9-4714-870c-2f27e4872e9f",
             "value": "Hearts3",
             "url": "https://dtdb.co/en/card/14029",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14029.jpg"
+            "imagesrc": "/images/cards/en/14029.jpg"
         },
         {
             "last-modified": "2016-03-28T14:45:33+02:00",
@@ -996,7 +996,7 @@
             "octgnid": "27ddc945-bfc5-4dd9-84d8-d6bc44c904ae",
             "value": "Hearts13",
             "url": "https://dtdb.co/en/card/14030",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14030.jpg"
+            "imagesrc": "/images/cards/en/14030.jpg"
         },
         {
             "last-modified": "2016-03-28T14:46:45+02:00",
@@ -1029,7 +1029,7 @@
             "octgnid": "b1db504d-513e-4ce8-8113-c64ded1b0ad5",
             "value": "Clubs2",
             "url": "https://dtdb.co/en/card/14031",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14031.jpg"
+            "imagesrc": "/images/cards/en/14031.jpg"
         },
         {
             "last-modified": "2016-03-28T14:47:46+02:00",
@@ -1062,7 +1062,7 @@
             "octgnid": "61e47afb-cb64-46b5-86ae-893590b84139",
             "value": "Clubs3",
             "url": "https://dtdb.co/en/card/14032",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14032.jpg"
+            "imagesrc": "/images/cards/en/14032.jpg"
         },
         {
             "last-modified": "2016-03-28T14:49:08+02:00",
@@ -1095,7 +1095,7 @@
             "octgnid": "2c318b93-e6b8-422d-b062-baecfc06e62a",
             "value": "Clubs5",
             "url": "https://dtdb.co/en/card/14033",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14033.jpg"
+            "imagesrc": "/images/cards/en/14033.jpg"
         },
         {
             "last-modified": "2016-03-28T14:50:38+02:00",
@@ -1128,7 +1128,7 @@
             "octgnid": "4964e22f-04f8-4d72-b70c-9b1c8d85a53a",
             "value": "Clubs6",
             "url": "https://dtdb.co/en/card/14034",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14034.jpg"
+            "imagesrc": "/images/cards/en/14034.jpg"
         },
         {
             "last-modified": "2016-03-28T14:51:50+02:00",
@@ -1161,7 +1161,7 @@
             "octgnid": "083b92c1-bf91-4d5b-95e0-23a72bd0d05a",
             "value": "Clubs6",
             "url": "https://dtdb.co/en/card/14035",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14035.jpg"
+            "imagesrc": "/images/cards/en/14035.jpg"
         },
         {
             "last-modified": "2016-03-28T14:52:55+02:00",
@@ -1194,7 +1194,7 @@
             "octgnid": "c5d383fa-b1e7-4135-bb1a-a530b9f8338d",
             "value": "Clubs7",
             "url": "https://dtdb.co/en/card/14036",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14036.jpg"
+            "imagesrc": "/images/cards/en/14036.jpg"
         },
         {
             "last-modified": "2016-03-28T14:54:18+02:00",
@@ -1227,7 +1227,7 @@
             "octgnid": "92a85b68-c791-46ac-8515-22379ea67e99",
             "value": "Clubs9",
             "url": "https://dtdb.co/en/card/14037",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14037.jpg"
+            "imagesrc": "/images/cards/en/14037.jpg"
         },
         {
             "last-modified": "2016-03-28T14:55:58+02:00",
@@ -1260,7 +1260,7 @@
             "octgnid": "e27b4a68-2a7b-48e9-9dae-a42d02f8a66f",
             "value": "Clubs9",
             "url": "https://dtdb.co/en/card/14038",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14038.jpg"
+            "imagesrc": "/images/cards/en/14038.jpg"
         },
         {
             "last-modified": "2016-03-28T14:57:26+02:00",
@@ -1293,7 +1293,7 @@
             "octgnid": "38c663b2-e6f8-4135-83d0-46122e5be7d6",
             "value": "Clubs13",
             "url": "https://dtdb.co/en/card/14039",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14039.jpg"
+            "imagesrc": "/images/cards/en/14039.jpg"
         },
         {
             "last-modified": "2016-03-28T14:59:08+02:00",
@@ -1326,7 +1326,7 @@
             "octgnid": "e2e638ff-27cb-4704-b324-bd318dc9170a",
             "value": "",
             "url": "https://dtdb.co/en/card/14040",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14040.jpg"
+            "imagesrc": "/images/cards/en/14040.jpg"
         },
         {
             "last-modified": "2016-05-12T20:23:52+02:00",
@@ -1359,7 +1359,7 @@
             "octgnid": "57039087-1868-4430-a94b-fb7eedeb04a5",
             "value": "",
             "url": "https://dtdb.co/en/card/14041",
-            "imagesrc": "/web/bundles/dtdbcards/images/cards/en/14041.jpg"
+            "imagesrc": "/images/cards/en/14041.jpg"
         }
     ]
 }
